@@ -17,24 +17,12 @@ class Util
     {
         $children = 0;
 
+        $dirs = [];
         foreach (glob($base.'/*') as $file) {
             ++$children;
 
             if (\is_dir($file)) {
-                self::$toc .= self::tocDirTitle(
-                    $file, 
-                    $depth
-                );
-                self::$compiled .= self::bodyTitle(
-                    $file,
-                    $depth
-                );
-                
-                self::compile(
-                    $file,
-                    $depth + 1
-                );
-                
+                $dirs[] = $file;
             } elseif (preg_match('#/([^/]+)\.json$#', $file)) {
                 self::$toc .= self::tocFileTitle(
                     $file, 
@@ -42,6 +30,22 @@ class Util
                 );
                 self::$compiled .= self::jsonMarker($file, $depth);
             }
+        }
+        foreach ($dirs as $file) {
+            ++$children;
+            self::$toc .= self::tocDirTitle(
+                $file, 
+                $depth
+            );
+            self::$compiled .= self::bodyTitle(
+                $file,
+                $depth
+            );
+
+            self::compile(
+                $file,
+                $depth + 1
+            );
         }
         return [self::$toc, self::$compiled];
     }

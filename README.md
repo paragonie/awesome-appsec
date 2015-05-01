@@ -16,10 +16,10 @@ See `src/compiler.php` for more information.
     * [Books](#books)
       * [Web Application Hacker's Handbook](#web-application-hackers-handbook)
     * [Websites](#websites)
-      * [Blogs](#blogs)
-        * [Crypto Fails](#crypto-fails)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
+      * [Blogs](#blogs)
+        * [Crypto Fails](#crypto-fails)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
   * [PHP](#php)
@@ -41,12 +41,6 @@ Great introduction to Web Application Security; though slightly dated.
 
 ## Websites
 
-### Blogs
-
-#### [Crypto Fails](http://cryptofails.com)
-
-Showcasing bad cryptography
-
 ### [Hack This Site!](http://www.hackthissite.org)
 
 Learn about application security by attempting to hack this website.
@@ -54,6 +48,12 @@ Learn about application security by attempting to hack this website.
 ### [Enigma Group](http://www.enigmagroup.org)
 
 Where hackers and security experts come to train.
+
+### Blogs
+
+#### [Crypto Fails](http://cryptofails.com)
+
+Showcasing bad cryptography
 
 ### Wiki pages
 
