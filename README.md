@@ -47,7 +47,7 @@ Learn about application security by attempting to hack this website.
 
 Where hackers and security experts come to train.
 
-## Wiki-pages
+## Wiki pages
 
 ### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
@@ -67,7 +67,7 @@ The blog of our technology and security consulting firm based in Orlando, FL
 
 A blog about PHP, Security, Performance and general web application development.
 
-### Mailing-lists
+### Mailing lists
 
 #### [Securing PHP Weekly](http://securingphp.com)
 

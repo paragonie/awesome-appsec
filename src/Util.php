@@ -61,6 +61,7 @@ class Util
         if (\preg_match('#^[0-9]+\-(.*)$#', $dirname, $m)) {
             $dirname = $m[1];
         }
+        $dirname = \str_replace('-', ' ', $dirname);
         
         return "\n".str_repeat('#', $depth).' '.\ucfirst($dirname)."\n";
     }
