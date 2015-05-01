@@ -20,6 +20,7 @@ See `src/compiler.php` for more information.
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
+      * [Web App Sec Quiz](#web-app-sec-quiz)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
       * [Wiki pages](#wiki-pages)
@@ -28,6 +29,10 @@ See `src/compiler.php` for more information.
     * [Articles](#articles)
       * [It's All About Time](#its-all-about-time-2014) (2014)
       * [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
+    * [Useful libraries](#useful-libraries)
+      * [defuse/php-encryption](#defuse-php-encryption)
+      * [ircmaxell/password_compat](#ircmaxell-password-compat)
+      * [ircmaxell/RandomLib](#ircmaxell-randomlib)
     * [Websites](#websites)
       * [Blogs](#blogs)
         * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
@@ -64,6 +69,10 @@ Learn about application security by attempting to hack this website.
 
 Where hackers and security experts come to train.
 
+### [Web App Sec Quiz](https://timoh6.github.io/WebAppSecQuiz/)
+
+Self-assessment quiz for web application security
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -91,6 +100,20 @@ A gentle introduction to timing attacks in PHP applications
 Released: April 21, 2015
 
 Discusses password policies, password storage, "remember me" cookies, and account recovery.
+
+## Useful libraries
+
+### [defuse/php-encryption](https://github.com/defuse/php-encryption)
+
+Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
+
+### [ircmaxell/password_compat](https://github.com/ircmaxell/password_compat)
+
+If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
+
+### [ircmaxell/RandomLib](https://github.com/ircmaxell/RandomLib)
+
+Useful for generating random strings or numbers
 
 ## Websites
 
