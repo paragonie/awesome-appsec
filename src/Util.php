@@ -113,15 +113,21 @@ class Util
             \file_get_contents($file),
             true
         );
-        
-        return str_repeat('  ', $depth).
+        $label = str_repeat('  ', $depth).
             '* ['.
                 $fd['name'].
             '](#'.
             self::makeSlug(
                 $fd['name']
             ).
-            ")\n";
+            ')';
+        
+        if (isset($fd['date'])) {
+            $dt = new \DateTime($fd['date']);
+            $label .= ' ('.$dt->format('Y').')';
+        }
+        
+        return $label."\n";
     }
 
     /**
@@ -142,12 +148,20 @@ class Util
         } else {
             $header = str_repeat('#', $depth).' '.$fd['name'];
         }
+        if (!empty($fd['date'])) {
+            $dt = new \DateTime($fd['date']);
+            $header .= ' ('.$dt->format('Y').')';
+        }
+        
+        $body = "\n".$header."\n\n"; 
+        
+        if (isset($dt)) {
+            $body .= 'Released: '.$dt->format('F j, Y')."\n\n";
+        }
+        
+        $body .= $fd['remark']."\n";
 
-        return "\n".
-            $header.
-            "\n\n".
-            $fd['remark'].
-            "\n";
+        return $body;
     }
     
     /**

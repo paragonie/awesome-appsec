@@ -14,7 +14,7 @@ See `src/compiler.php` for more information.
 
   * [General](#general)
     * [Books](#books)
-      * [Web Application Hacker's Handbook](#web-application-hackers-handbook)
+      * [Web Application Hacker's Handbook](#web-application-hackers-handbook) (2011)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -35,7 +35,9 @@ See `src/compiler.php` for more information.
 
 ## Books
 
-### [Web Application Hacker's Handbook](http://mdsec.net/wahh)
+### [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
+
+Released: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
 
