@@ -12,7 +12,7 @@ See `src/compiler.php` for more information.
 
 # The Awesome Application Security Readling List
 
-  * [00 general](#title.1)
+  * [General](#title.1)
     * [Books](#title.1.1)
       * [Web Application Hacker's Handbook](#title.1.1.1)
     * [Websites](#title.1.2)
@@ -20,7 +20,7 @@ See `src/compiler.php` for more information.
       * [Enigma Group](#title.1.2.2)
     * [Wiki pages](#title.1.3)
       * [OWASP Top Ten Project](#title.1.3.1)
-  * [01 php](#title.2)
+  * [PHP](#title.2)
     * [Websites](#title.2.1)
       * [Blogs](#title.2.1.1)
         * [Paragon Initiative Enterprises Blog](#title.2.1.1.1)
@@ -29,15 +29,15 @@ See `src/compiler.php` for more information.
         * [Securing PHP Weekly](#title.2.1.2.1)
 
 
-# 00-general
+# General
 
-## books
+## Books
 
 ### [Web Application Hacker's Handbook](http://mdsec.net/wahh)
 
 Great introduction to Web Application Security; though slightly dated.
 
-## websites
+## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
 
@@ -47,17 +47,17 @@ Learn about application security by attempting to hack this website.
 
 Where hackers and security experts come to train.
 
-## wiki-pages
+## Wiki-pages
 
 ### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 The top ten most common and critical security vulnerabilities found in web applications.
 
-# 01-php
+# PHP
 
-## websites
+## Websites
 
-### blogs
+### Blogs
 
 #### [Paragon Initiative Enterprises Blog](https://paragonie.com/blog/)
 
@@ -67,7 +67,7 @@ The blog of our technology and security consulting firm based in Orlando, FL
 
 A blog about PHP, Security, Performance and general web application development.
 
-### mailing-lists
+### Mailing-lists
 
 #### [Securing PHP Weekly](http://securingphp.com)
 

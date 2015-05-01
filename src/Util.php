@@ -64,8 +64,11 @@ class Util
         if (\preg_match('#^.+/([^/]+)$#', $dirname, $m)) {
             $dirname = $m[1];
         }
+        if (\preg_match('#^[0-9]+\-(.*)$#', $dirname, $m)) {
+            $dirname = $m[1];
+        }
         
-        return "\n".str_repeat('#', $depth).' '.$dirname."\n";
+        return "\n".str_repeat('#', $depth).' '.\ucfirst($dirname)."\n";
     }
 
     /**
@@ -81,8 +84,12 @@ class Util
         if (\preg_match('#^.+/([^/]+)$#', $dirname, $m)) {
             $dirname = $m[1];
         }
+        if (\preg_match('#^[0-9]+\-(.*)$#', $dirname, $m)) {
+            $dirname = $m[1];
+        }
         
         $dirname = \ucfirst(\str_replace('-', ' ', $dirname));
+        
         
         return str_repeat('  ', $depth).'* ['.$dirname.'](#title.'.implode('.', $indices).')'."\n";
     }
