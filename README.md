@@ -16,10 +16,12 @@ See `src/compiler.php` for more information.
     * [Books](#books)
       * [Web Application Hacker's Handbook](#web-application-hackers-handbook)
     * [Websites](#websites)
+      * [Blogs](#blogs)
+        * [Crypto Fails](#crypto-fails)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
-    * [Wiki pages](#wiki-pages)
-      * [OWASP Top Ten Project](#owasp-top-ten-project)
+      * [Wiki pages](#wiki-pages)
+        * [OWASP Top Ten Project](#owasp-top-ten-project)
   * [PHP](#php)
     * [Websites](#websites)
       * [Blogs](#blogs)
@@ -39,6 +41,12 @@ Great introduction to Web Application Security; though slightly dated.
 
 ## Websites
 
+### Blogs
+
+#### [Crypto Fails](http://cryptofails.com)
+
+Showcasing bad cryptography
+
 ### [Hack This Site!](http://www.hackthissite.org)
 
 Learn about application security by attempting to hack this website.
@@ -47,9 +55,9 @@ Learn about application security by attempting to hack this website.
 
 Where hackers and security experts come to train.
 
-## Wiki pages
+### Wiki pages
 
-### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+#### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 The top ten most common and critical security vulnerabilities found in web applications.
 
