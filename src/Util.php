@@ -113,17 +113,24 @@ class Util
             \file_get_contents($file),
             true
         );
+        if (isset($fd['date'])) {
+            $dt = new \DateTime($fd['date']);
+        }
         $label = str_repeat('  ', $depth).
             '* ['.
                 $fd['name'].
             '](#'.
             self::makeSlug(
-                $fd['name']
+                $fd['name'].
+                (
+                    isset($fd['date']) 
+                        ? ('-'.$dt->format('Y'))
+                        : ''
+                )
             ).
             ')';
         
         if (isset($fd['date'])) {
-            $dt = new \DateTime($fd['date']);
             $label .= ' ('.$dt->format('Y').')';
         }
         
