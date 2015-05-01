@@ -13,6 +13,8 @@ See `src/compiler.php` for more information.
 # The Awesome Application Security Readling List
 
   * [General](#general)
+    * [Articles](#articles)
+      * [How to Safely Generate a Random Number](#how-to-safely-generate-a-random-number) (2014)
     * [Books](#books)
       * [Web Application Hacker's Handbook](#web-application-hackers-handbook) (2011)
     * [Websites](#websites)
@@ -23,6 +25,9 @@ See `src/compiler.php` for more information.
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
   * [PHP](#php)
+    * [Articles](#articles)
+      * [It's All About Time](#its-all-about-time) (2014)
+      * [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence) (2015)
     * [Websites](#websites)
       * [Blogs](#blogs)
         * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
@@ -32,6 +37,14 @@ See `src/compiler.php` for more information.
 
 
 # General
+
+## Articles
+
+### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
+
+Released: February 25, 2014
+
+Advice on cryptographically secure pseudo-random number generators.
 
 ## Books
 
@@ -64,6 +77,20 @@ Showcasing bad cryptography
 The top ten most common and critical security vulnerabilities found in web applications.
 
 # PHP
+
+## Articles
+
+### [It's All About Time](http://blog.ircmaxell.com/2014/11/its-all-about-time.html) (2014)
+
+Released: November 28, 2014
+
+A gentle introduction to timing attacks in PHP applications
+
+### [Secure Authentication in PHP with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence) (2015)
+
+Released: April 21, 2015
+
+Discusses password policies, password storage, "remember me" cookies, and account recovery.
 
 ## Websites
 
