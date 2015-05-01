@@ -11,23 +11,19 @@ class Util
      * 
      * @param string $base
      * @param int $depth
-     * @param array $indices
      * @return type
      */
-    public static function compile($base, $depth = 1, array $indices = [])
+    public static function compile($base, $depth = 1)
     {
         $children = 0;
 
         foreach (glob($base.'/*') as $file) {
             ++$children;
-            $pass = $indices;
-            $pass[] = $children;
 
             if (\is_dir($file)) {
                 self::$toc .= self::tocDirTitle(
                     $file, 
-                    $depth, 
-                    $pass
+                    $depth
                 );
                 self::$compiled .= self::bodyTitle(
                     $file,
@@ -36,15 +32,13 @@ class Util
                 
                 self::compile(
                     $file,
-                    $depth + 1,
-                    $pass
+                    $depth + 1
                 );
                 
             } elseif (preg_match('#/([^/]+)\.json$#', $file)) {
                 self::$toc .= self::tocFileTitle(
                     $file, 
-                    $depth, 
-                    $pass
+                    $depth
                 );
                 self::$compiled .= self::jsonMarker($file, $depth);
             }
@@ -76,10 +70,9 @@ class Util
      * 
      * @param string $dirname
      * @param int $depth
-     * @param array $indices
      * @return string
      */
-    protected static function tocDirTitle($dirname, $depth = 1, array $indices = [])
+    protected static function tocDirTitle($dirname, $depth = 1)
     {
         if (\preg_match('#^.+/([^/]+)$#', $dirname, $m)) {
             $dirname = $m[1];
@@ -90,8 +83,12 @@ class Util
         
         $dirname = \ucfirst(\str_replace('-', ' ', $dirname));
         
-        
-        return str_repeat('  ', $depth).'* ['.$dirname.'](#title.'.implode('.', $indices).')'."\n";
+        return \str_repeat('  ', $depth).
+            '* ['.
+                $dirname.
+            '](#'.
+                self::makeSlug($dirname).
+            ")\n";
     }
     
 
@@ -100,10 +97,9 @@ class Util
      * 
      * @param string $file
      * @param int $depth
-     * @param array $indices
      * @return string
      */
-    protected static function tocFileTitle($file, $depth = 1, array $indices = [])
+    protected static function tocFileTitle($file, $depth = 1)
     {
         if (!\preg_match('#^.+/([^/]+)\.json$#', $file, $m)) {
             return '';
@@ -113,7 +109,14 @@ class Util
             true
         );
         
-        return str_repeat('  ', $depth).'* ['.$fd['name'].'](#title.'.implode('.', $indices).')'."\n";
+        return str_repeat('  ', $depth).
+            '* ['.
+                $fd['name'].
+            '](#'.
+            self::makeSlug(
+                $fd['name']
+            ).
+            ")\n";
     }
 
     /**
@@ -135,6 +138,40 @@ class Util
             $header = str_repeat('#', $depth).' '.$fd['name'];
         }
 
-        return "\n".$header."\n\n".$fd['remark']."\n";
+        return "\n".
+            $header.
+            "\n\n".
+            $fd['remark'].
+            "\n";
+    }
+    
+    /**
+     * Make a unique URL slug
+     * 
+     * @staticvar array $slugs
+     * @param string $string
+     * @return string
+     */
+    public function makeSlug($string)
+    {
+        // So we don't repeat.
+        static $slugs = [];
+        
+        // Handle duplication
+        $desired = \str_replace("'", '', $string);
+        $i = 2;
+        while(\in_array($desired, $slugs)) {
+            $desired = \str_replace("'", '', $string).'.'.$i;
+            ++$i;
+        }
+        
+        return \trim(
+            \preg_replace(
+                '#\-{2,}#', 
+                '', 
+                \preg_replace('#[^0-9a-z]#', '-', \strtolower($desired))
+            ),
+            '-'
+        );
     }
 }

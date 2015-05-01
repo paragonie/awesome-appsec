@@ -12,21 +12,21 @@ See `src/compiler.php` for more information.
 
 # The Awesome Application Security Readling List
 
-  * [General](#title.1)
-    * [Books](#title.1.1)
-      * [Web Application Hacker's Handbook](#title.1.1.1)
-    * [Websites](#title.1.2)
-      * [Hack This Site!](#title.1.2.1)
-      * [Enigma Group](#title.1.2.2)
-    * [Wiki pages](#title.1.3)
-      * [OWASP Top Ten Project](#title.1.3.1)
-  * [PHP](#title.2)
-    * [Websites](#title.2.1)
-      * [Blogs](#title.2.1.1)
-        * [Paragon Initiative Enterprises Blog](#title.2.1.1.1)
-        * [ircmaxell's blog](#title.2.1.1.2)
-      * [Mailing lists](#title.2.1.2)
-        * [Securing PHP Weekly](#title.2.1.2.1)
+  * [General](#general)
+    * [Books](#books)
+      * [Web Application Hacker's Handbook](#web-application-hackers-handbook)
+    * [Websites](#websites)
+      * [Hack This Site!](#hack-this-site)
+      * [Enigma Group](#enigma-group)
+    * [Wiki pages](#wiki-pages)
+      * [OWASP Top Ten Project](#owasp-top-ten-project)
+  * [PHP](#php)
+    * [Websites](#websites)
+      * [Blogs](#blogs)
+        * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
+        * [ircmaxell's blog](#ircmaxells-blog)
+      * [Mailing lists](#mailing-lists)
+        * [Securing PHP Weekly](#securing-php-weekly)
 
 
 # General
