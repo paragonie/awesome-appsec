@@ -15,6 +15,8 @@ See `src/compiler.php` for more information.
   * [General](#general)
     * [Articles](#articles)
       * [How to Safely Generate a Random Number](#how-to-safely-generate-a-random-number-2014) (2014)
+      * [Salted Password Hashing - Doing it Right](#salted-password-hashingdoing-it-right-2014) (2014)
+      * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usagedev-urandom-2014) (2014)
     * [Books](#books)
       * [Web Application Hacker's Handbook](#web-application-hackers-handbook-2011) (2011)
     * [Websites](#websites)
@@ -50,6 +52,18 @@ See `src/compiler.php` for more information.
 Released: February 25, 2014
 
 Advice on cryptographically secure pseudo-random number generators.
+
+### [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm) (2014)
+
+Released: August 6, 2014
+
+A post on [Crackstation](https://crackstation.net), a projecy by [Defuse Security](https://defuse.ca)
+
+### [A good idea with bad usage: /dev/urandom](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
+
+Released: May 3, 2014
+
+Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 
 ## Books
 

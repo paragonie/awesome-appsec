@@ -1,0 +1,6 @@
+{
+    "date": "2014-05-03",
+    "name": "A good idea with bad usage: /dev/urandom",
+    "remark": "Mentions many ways to make `/dev/urandom` fail on Linux/BSD.",
+    "url": "http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html"
+}
