@@ -1,0 +1,6 @@
+{
+    "date": "2013-04-22",
+    "name": "20 Point List For Preventing Cross-Site Scripting In PHP",
+    "remark": "Padriac Brady's advice on building software that isn't vulnerable to XSS",
+    "url": "http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php"
+}

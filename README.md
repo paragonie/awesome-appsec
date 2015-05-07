@@ -24,6 +24,7 @@ See `src/compiler.php` for more information.
       * [Enigma Group](#enigma-group)
       * [Web App Sec Quiz](#web-app-sec-quiz)
       * [SecurePasswords.info](#securepasswords-info)
+      * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
       * [Wiki pages](#wiki-pages)
@@ -32,6 +33,9 @@ See `src/compiler.php` for more information.
     * [Articles](#articles)
       * [It's All About Time](#its-all-about-time-2014) (2014)
       * [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
+      * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
+      * [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
+      * [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
     * [Useful libraries](#useful-libraries)
       * [defuse/php-encryption](#defuse-php-encryption)
       * [ircmaxell/password_compat](#ircmaxell-password-compat)
@@ -92,6 +96,10 @@ Self-assessment quiz for web application security
 
 Secure passwords in several languages/frameworks.
 
+### [Security News Feeds Cheat-Sheet](http://lzone.de/cheat-sheet/Security-News-Feeds)
+
+A list of security news sources.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -119,6 +127,24 @@ A gentle introduction to timing attacks in PHP applications
 Released: April 21, 2015
 
 Discusses password policies, password storage, "remember me" cookies, and account recovery.
+
+### [20 Point List For Preventing Cross-Site Scripting In PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php) (2013)
+
+Released: April 22, 2013
+
+Padriac Brady's advice on building software that isn't vulnerable to XSS
+
+### [25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html) (2011)
+
+Released: November 23, 2011
+
+Though this article is a few years old, much of its advice is still relevant as we veer around the corner towards PHP 7.
+
+### [PHP data encryption primer](https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html) (2014)
+
+Released: June 16, 2014
+
+@timoh6 explains implementing data encryption in PHP
 
 ## Useful libraries
 
