@@ -23,6 +23,7 @@ See `src/compiler.php` for more information.
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
       * [Web App Sec Quiz](#web-app-sec-quiz)
+      * [SecurePasswords.info](#securepasswords-info)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
       * [Wiki pages](#wiki-pages)
@@ -86,6 +87,10 @@ Where hackers and security experts come to train.
 ### [Web App Sec Quiz](https://timoh6.github.io/WebAppSecQuiz/)
 
 Self-assessment quiz for web application security
+
+### [SecurePasswords.info](https://securepasswords.info)
+
+Secure passwords in several languages/frameworks.
 
 ### Blogs
 
