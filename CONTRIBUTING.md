@@ -12,6 +12,12 @@ To add to this list, please clone the repository then follow the following steps
     * `remark`
     * `url`
    
+   Any directories you create will be used to define the structure of your new
+   links.
+   
+   Please try not to make things too messy. We will clean up the list from time
+   to time.
+   
 2. Run `src/compiler.php`
 3. Commit your changes, send a pull request.
 
