@@ -19,12 +19,14 @@ See `src/compiler.php` for more information.
       * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usagedev-urandom-2014) (2014)
     * [Books](#books)
       * [Web Application Hacker's Handbook](#web-application-hackers-handbook-2011) (2011)
+      * [Cryptography Engineering](#cryptography-engineering-2010) (2010)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
       * [Web App Sec Quiz](#web-app-sec-quiz)
       * [SecurePasswords.info](#securepasswords-info)
       * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
+      * [Open Security Training](#open-security-training)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
       * [Wiki pages](#wiki-pages)
@@ -78,6 +80,12 @@ Released: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
 
+### Cryptography Engineering (2010)
+
+Released: March 15, 2010
+
+Develops a sense of professional paranoia while presenting crypto design techniques.
+
 ## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
@@ -99,6 +107,10 @@ Secure passwords in several languages/frameworks.
 ### [Security News Feeds Cheat-Sheet](http://lzone.de/cheat-sheet/Security-News-Feeds)
 
 A list of security news sources.
+
+### [Open Security Training](http://opensecuritytraining.info/)
+
+Video courses on low-level x86 programming, hacking, and forensics.
 
 ### Blogs
 
