@@ -163,7 +163,7 @@ class Util
         $body = "\n".$header."\n\n"; 
         
         if (isset($dt)) {
-            $body .= 'Released: '.$dt->format('F j, Y')."\n\n";
+            $body .= '**Released**: '.$dt->format('F j, Y')."\n\n";
         }
         
         $body .= $fd['remark']."\n";
