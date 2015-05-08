@@ -113,6 +113,12 @@ class Util
             \file_get_contents($file),
             true
         );
+        $nonfree = false;
+        if (\array_key_exists('free', $fd)) {
+            if (!$fd['free']) {
+                $nonfree = true;
+            }
+        }
         if (isset($fd['date'])) {
             $dt = new \DateTime($fd['date']);
         }
@@ -120,6 +126,7 @@ class Util
             '* ['.
                 $fd['name'].
             '](#'.
+            ($nonfree ? '-' : '').
             self::makeSlug(
                 $fd['name'].
                 (
@@ -134,12 +141,9 @@ class Util
             $label .= ' ('.$dt->format('Y').')';
         }
         
-        if (\array_key_exists('free', $fd)) {
-            if (!$fd['free']) {
-                $label .= ' ![nonfree](img/nonfree.png)' ;
-            }
+        if ($nonfree) {
+            $label .= ' ![nonfree](img/nonfree.png)' ;
         }
-        
         
         return $label."\n";
     }
