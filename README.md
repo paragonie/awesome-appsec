@@ -19,6 +19,7 @@ See `src/compiler.php` for more information.
       * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usagedev-urandom-2014) (2014)
     * [Books](#books)
       * [Web Application Hacker's Handbook](#web-application-hackers-handbook-2011) (2011)
+      * [Cryptography Engineering](#cryptography-engineering-2010) (2010)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -78,6 +79,12 @@ Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 Released: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
+
+### Cryptography Engineering (2010)
+
+Released: March 15, 2010
+
+Develops a sense of professional paranoia while presenting crypto design techniques.
 
 ## Websites
 
