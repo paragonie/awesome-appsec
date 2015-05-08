@@ -7,8 +7,7 @@ contributions from the application security and developer communities.
 
 # Contributing
 
-This README file is dynamically generated from the `data/` directory. 
-See `src/compiler.php` for more information.
+[Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 # The Awesome Application Security Readling List
 
@@ -38,14 +37,18 @@ See `src/compiler.php` for more information.
       * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
       * [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
       * [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
+    * [Books and ebooks](#books-and-ebooks)
+      * [Securing PHP: Core Concepts](#-securing-phpcore-concepts) ![nonfree](img/nonfree.png)
     * [Useful libraries](#useful-libraries)
       * [defuse/php-encryption](#defuse-php-encryption)
       * [ircmaxell/password_compat](#ircmaxell-password-compat)
       * [ircmaxell/RandomLib](#ircmaxell-randomlib)
+      * [thephpleague/oauth2-server](#thephpleague-oauth2-server)
     * [Websites](#websites)
       * [Blogs](#blogs)
         * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
         * [ircmaxell's blog](#ircmaxells-blog)
+        * [Pádraic Brady's Blog](#pdraic-bradys-blog)
       * [Mailing lists](#mailing-lists)
         * [Securing PHP Weekly](#securing-php-weekly)
 
@@ -158,6 +161,12 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 @timoh6 explains implementing data encryption in PHP
 
+## Books and ebooks
+
+### ![nonfree](img/nonfree.png) [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
+
+*Securing PHP: Core Concepts* acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
+
 ## Useful libraries
 
 ### [defuse/php-encryption](https://github.com/defuse/php-encryption)
@@ -172,6 +181,10 @@ If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
 Useful for generating random strings or numbers
 
+### [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
+
+A secure OAuth2 server implementation
+
 ## Websites
 
 ### Blogs
@@ -183,6 +196,10 @@ The blog of our technology and security consulting firm based in Orlando, FL
 #### [ircmaxell's blog](http://blog.ircmaxell.com)
 
 A blog about PHP, Security, Performance and general web application development.
+
+#### [Pádraic Brady's Blog](http://blog.astrumfutura.com)
+
+Pádraic Brady is a Zend Framework security expert
 
 ### Mailing lists
 

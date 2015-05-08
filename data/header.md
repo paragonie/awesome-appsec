@@ -7,7 +7,6 @@ contributions from the application security and developer communities.
 
 # Contributing
 
-This README file is dynamically generated from the `data/` directory. 
-See `src/compiler.php` for more information.
+[Please refer to the contributing guide for details](CONTRIBUTING.md).
 
 # The Awesome Application Security Readling List
