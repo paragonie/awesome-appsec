@@ -25,6 +25,7 @@ See `src/compiler.php` for more information.
       * [Web App Sec Quiz](#web-app-sec-quiz)
       * [SecurePasswords.info](#securepasswords-info)
       * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
+      * [Open Security Training](#open-security-training)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
       * [Wiki pages](#wiki-pages)
@@ -99,6 +100,10 @@ Secure passwords in several languages/frameworks.
 ### [Security News Feeds Cheat-Sheet](http://lzone.de/cheat-sheet/Security-News-Feeds)
 
 A list of security news sources.
+
+### [Open Security Training](http://opensecuritytraining.info/)
+
+Video courses on low-level x86 programming, hacking, and forensics.
 
 ### Blogs
 
