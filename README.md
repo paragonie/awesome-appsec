@@ -80,7 +80,7 @@ Released: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
 
-### Cryptography Engineering (2010)
+### [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
 
 Released: March 15, 2010
 
