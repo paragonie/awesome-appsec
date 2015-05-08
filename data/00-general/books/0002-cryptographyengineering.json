@@ -1,5 +1,6 @@
 {
     "date": "2010-03-15",
+    "free": false,
     "name": "Cryptography Engineering",
     "remark": "Develops a sense of professional paranoia while presenting crypto design techniques.",
     "url": "http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246"

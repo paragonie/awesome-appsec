@@ -134,6 +134,13 @@ class Util
             $label .= ' ('.$dt->format('Y').')';
         }
         
+        if (\array_key_exists('free', $fd)) {
+            if (!$fd['free']) {
+                $label .= ' ![nonfree](img/nonfree.png)' ;
+            }
+        }
+        
+        
         return $label."\n";
     }
 
@@ -150,10 +157,18 @@ class Util
             \file_get_contents($file),
             true
         );
+        $prefix = '';
+        
+        if (\array_key_exists('free', $fd)) {
+            if (!$fd['free']) {
+                $prefix .= ' ![nonfree](img/nonfree.png)' ;
+            }
+        }
+        
         if (!empty($fd['url'])) {
-            $header = str_repeat('#', $depth).' ['.$fd['name'].']('.$fd['url'].')';
+            $header = str_repeat('#', $depth).$prefix.' ['.$fd['name'].']('.$fd['url'].')';
         } else {
-            $header = str_repeat('#', $depth).' '.$fd['name'];
+            $header = str_repeat('#', $depth).$prefix.' '.$fd['name'];
         }
         if (!empty($fd['date'])) {
             $dt = new \DateTime($fd['date']);

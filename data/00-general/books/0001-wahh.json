@@ -1,5 +1,6 @@
 {
     "date": "2011-09-27",
+    "free": false,
     "name": "Web Application Hacker's Handbook",
     "remark": "Great introduction to Web Application Security; though slightly dated.",
     "url": "http://mdsec.net/wahh"

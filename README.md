@@ -18,8 +18,8 @@ See `src/compiler.php` for more information.
       * [Salted Password Hashing - Doing it Right](#salted-password-hashingdoing-it-right-2014) (2014)
       * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usagedev-urandom-2014) (2014)
     * [Books](#books)
-      * [Web Application Hacker's Handbook](#web-application-hackers-handbook-2011) (2011)
-      * [Cryptography Engineering](#cryptography-engineering-2010) (2010)
+      * [Web Application Hacker's Handbook](#web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
+      * [Cryptography Engineering](#cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -56,33 +56,33 @@ See `src/compiler.php` for more information.
 
 ### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
 
-Released: February 25, 2014
+**Released**: February 25, 2014
 
 Advice on cryptographically secure pseudo-random number generators.
 
 ### [Salted Password Hashing - Doing it Right](https://crackstation.net/hashing-security.htm) (2014)
 
-Released: August 6, 2014
+**Released**: August 6, 2014
 
 A post on [Crackstation](https://crackstation.net), a projecy by [Defuse Security](https://defuse.ca)
 
 ### [A good idea with bad usage: /dev/urandom](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
 
-Released: May 3, 2014
+**Released**: May 3, 2014
 
 Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
 
 ## Books
 
-### [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
+### ![nonfree](img/nonfree.png) [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
 
-Released: September 27, 2011
+**Released**: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
 
-### [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
+### ![nonfree](img/nonfree.png) [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
 
-Released: March 15, 2010
+**Released**: March 15, 2010
 
 Develops a sense of professional paranoia while presenting crypto design techniques.
 
@@ -130,31 +130,31 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 ### [It's All About Time](http://blog.ircmaxell.com/2014/11/its-all-about-time.html) (2014)
 
-Released: November 28, 2014
+**Released**: November 28, 2014
 
 A gentle introduction to timing attacks in PHP applications
 
 ### [Secure Authentication in PHP with Long-Term Persistence](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence) (2015)
 
-Released: April 21, 2015
+**Released**: April 21, 2015
 
 Discusses password policies, password storage, "remember me" cookies, and account recovery.
 
 ### [20 Point List For Preventing Cross-Site Scripting In PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php) (2013)
 
-Released: April 22, 2013
+**Released**: April 22, 2013
 
 Padriac Brady's advice on building software that isn't vulnerable to XSS
 
 ### [25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html) (2011)
 
-Released: November 23, 2011
+**Released**: November 23, 2011
 
 Though this article is a few years old, much of its advice is still relevant as we veer around the corner towards PHP 7.
 
 ### [PHP data encryption primer](https://timoh6.github.io/2014/06/16/PHP-data-encryption-cheatsheet.html) (2014)
 
-Released: June 16, 2014
+**Released**: June 16, 2014
 
 @timoh6 explains implementing data encryption in PHP
 
