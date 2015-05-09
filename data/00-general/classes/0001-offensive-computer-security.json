@@ -1,6 +1,6 @@
 {
     "free": true,
-    "name": "Offensive Computer Security (CIS 4930) - FSU",
+    "name": "Offensive Computer Security (CIS 4930) FSU",
     "remark": "A vulnerability research and exploit development class by Owen Redwood of Florida State University. \n\n**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**",
     "url": "https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/"
 }
