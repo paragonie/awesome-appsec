@@ -203,20 +203,35 @@ class Util
         static $slugs = [];
         
         // Handle duplication
-        $desired = \str_replace("'", '', $string);
+        $desired = self::slugEscape($string);
         $i = 2;
         while(\in_array($desired, $slugs)) {
-            $desired = \str_replace("'", '', $string).'.'.$i;
+            $desired = self::slugEscape($string).'.'.$i;
             ++$i;
         }
         
-        return \trim(
+        $finalSlug = \trim(
             \preg_replace(
                 '#\-{2,}#', 
-                '', 
-                \preg_replace('#[^0-9a-z]#', '-', \strtolower($desired))
+                '-', 
+                \preg_replace('#[^0-9a-z%A-F]#', '-', \urlencode(\strtolower($desired)))
             ),
             '-'
+        );
+        // Deduplication
+        $slugs[] = $finalSlug;
+        
+        return $finalSlug;
+    }
+    
+    public function slugEscape($string)
+    {
+        return \preg_replace(
+            [
+                '#[\x20-\x2f\x3a-\x40\x5c-\x60\x7b-\x7f]#'
+            ],
+            '-',
+            \str_replace("'", '', $string)
         );
     }
 }
