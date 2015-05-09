@@ -19,6 +19,8 @@ contributions from the application security and developer communities.
     * [Books](#books)
       * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
+    * [Classes](#classes)
+      * [Offensive Computer Security (CIS 4930) - FSU](#offensive-computer-security-cis-4930-fsu)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -88,6 +90,14 @@ Great introduction to Web Application Security; though slightly dated.
 **Released**: March 15, 2010
 
 Develops a sense of professional paranoia while presenting crypto design techniques.
+
+## Classes
+
+### [Offensive Computer Security (CIS 4930) - FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
+
+A vulnerability research and exploit development class by Owen Redwood of Florida State University. 
+
+**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
 ## Websites
 
