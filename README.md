@@ -20,7 +20,7 @@ contributions from the application security and developer communities.
       * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
     * [Classes](#classes)
-      * [Offensive Computer Security (CIS 4930) - FSU](#offensive-computer-security-cis-4930-fsu)
+      * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -47,6 +47,7 @@ contributions from the application security and developer communities.
       * [ircmaxell/RandomLib](#ircmaxell-randomlib)
       * [thephpleague/oauth2-server](#thephpleague-oauth2-server)
     * [Websites](#websites)
+      * [websec.io](#websec-io)
       * [Blogs](#blogs)
         * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
         * [ircmaxell's blog](#ircmaxells-blog)
@@ -93,7 +94,7 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 
 ## Classes
 
-### [Offensive Computer Security (CIS 4930) - FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
+### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
 A vulnerability research and exploit development class by Owen Redwood of Florida State University. 
 
@@ -196,6 +197,10 @@ Useful for generating random strings or numbers
 A secure OAuth2 server implementation
 
 ## Websites
+
+### [websec.io](http://websec.io)
+
+**websec.io** is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information
 
 ### Blogs
 
