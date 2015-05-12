@@ -1,0 +1,7 @@
+{
+    "date": "1999-02-14",
+    "free": false,
+    "name": "The Practice of Programming",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"Skip it if you've already done dev professionally (and, if you can, try to spend a couple years doing that before coming to app security). Otherwise: you want to (a) get good at busting our reliable, readable security testing tools without losing cycles figuring out how to start, and (b) to know how pro devs think before trying to tear up their software.\"",
+    "url": "http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/"
+}

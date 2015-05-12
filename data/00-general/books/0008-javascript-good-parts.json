@@ -1,0 +1,7 @@
+{
+    "date": "2008-05-01",
+    "free": false,
+    "name": "JavaScript: The Good parts",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"This book is tiny. Most books about Javascript are 18,000 pages long, explain how to write 1000 lines of JS to make rounded corners in IE5, and suck. This book contains nothing but how to write serious code in Javascript, a surprisingly serious language that it turns out owns a surprisingly huge portion of the Internet security model by enforcing the \"same origin policy\" that secures browsers.\"",
+    "url": "http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742"
+}

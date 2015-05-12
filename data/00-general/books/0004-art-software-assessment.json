@@ -1,0 +1,7 @@
+{
+    "date": "2006-11-30",
+    "free": false,
+    "name": "The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"The same way you can say \"TAOCP\" on a programming site and everyone knows you mean \"Knuth\", say \"TOASSA\" to a security person and they know this book. This is the McGee, the Cormen/Rivest, the \"Theory Of Poker\" for our industry: how to find vulnerabilities by reading software.\"",
+    "url": "http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/"
+}

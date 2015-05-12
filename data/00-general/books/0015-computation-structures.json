@@ -1,0 +1,7 @@
+{
+    "date": "1989-12-13",
+    "free": false,
+    "name": "Computation Structures (MIT Electrical Engineering and Computer Science)",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"Eventually you'll get a project that's going to involve an exotic target, maybe synthesized onto an FPGA in some crazy RISC architecture, maybe on an embedded controller you can only talk to with JTAG. You want to know how computer systems are designed and engineered from electrical signals on up. This book starts from circuits and ends with compiler design and may be all you'll ever need.\"",
+    "url": "http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395"
+}

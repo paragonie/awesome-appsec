@@ -19,6 +19,20 @@ contributions from the application security and developer communities.
     * [Books](#books)
       * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
+      * [Gray Hat Python: Programming for Hackers and Reverse Engineers](#-gray-hat-python-programming-for-hackers-and-reverse-engineers-2009) (2009) ![nonfree](img/nonfree.png)
+      * [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](#-the-art-of-software-security-assessment-identifying-and-preventing-software-vulnerabilities-2006) (2006) ![nonfree](img/nonfree.png)
+      * [The Practice of Programming](#-the-practice-of-programming-1999) (1999) ![nonfree](img/nonfree.png)
+      * [C Interfaces and Implementations: Techniques for Creating Reusable Software](#-c-interfaces-and-implementations-techniques-for-creating-reusable-software-1996) (1996) ![nonfree](img/nonfree.png)
+      * [Reversing: Secrets of Reverse Engineering](#-reversing-secrets-of-reverse-engineering-2005) (2005) ![nonfree](img/nonfree.png)
+      * [JavaScript: The Good parts](#-javascript-the-good-parts-2008) (2008) ![nonfree](img/nonfree.png)
+      * [SQL For Dummies](#-sql-for-dummies-2010) (2010) ![nonfree](img/nonfree.png)
+      * [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](#-windows-internals-including-windows-server-2008-and-windows-vista-fifth-edition-2007) (2007) ![nonfree](img/nonfree.png)
+      * [The Mac Hacker's Handbook](#-the-mac-hackers-handbook-2009) (2009) ![nonfree](img/nonfree.png)
+      * [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](#-the-ida-pro-book-the-unofficial-guide-to-the-worlds-most-popular-disassembler-2008) (2008) ![nonfree](img/nonfree.png)
+      * [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](#-internetworking-with-tcp-ip-vol-ii-ansi-c-version-design-implementation-and-internals-3rd-edition-1998) (1998) ![nonfree](img/nonfree.png)
+      * [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](#-network-algorithmics-an-interdisciplinary-approach-to-designing-fast-networked-devices-2004) (2004) ![nonfree](img/nonfree.png)
+      * [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](img/nonfree.png)
+      * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
     * [Websites](#websites)
@@ -91,6 +105,118 @@ Great introduction to Web Application Security; though slightly dated.
 **Released**: March 15, 2010
 
 Develops a sense of professional paranoia while presenting crypto design techniques.
+
+### ![nonfree](img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
+
+**Released**: May 3, 2009
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Literally the first book I thought of when I started this list, and I don't even like writing in Python. A headfirst dive into the day-to-day coding all app pentesters end up doing."
+
+### ![nonfree](img/nonfree.png) [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006)
+
+**Released**: November 30, 2006
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"The same way you can say "TAOCP" on a programming site and everyone knows you mean "Knuth", say "TOASSA" to a security person and they know this book. This is the McGee, the Cormen/Rivest, the "Theory Of Poker" for our industry: how to find vulnerabilities by reading software."
+
+### ![nonfree](img/nonfree.png) [The Practice of Programming](http://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X/) (1999)
+
+**Released**: February 14, 1999
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Skip it if you've already done dev professionally (and, if you can, try to spend a couple years doing that before coming to app security). Otherwise: you want to (a) get good at busting our reliable, readable security testing tools without losing cycles figuring out how to start, and (b) to know how pro devs think before trying to tear up their software."
+
+### ![nonfree](img/nonfree.png) [C Interfaces and Implementations: Techniques for Creating Reusable Software](http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/) (1996)
+
+**Released**: August 30, 1996
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"You need C. This is the single best book on C software development that has ever been written. It takes everything you've been doing in Python, Ruby, or Perl, but have lost in C, and gives it back to you - while explaining each line of code it takes to do that, and making you a competent C API designer in the process."
+
+### ![nonfree](img/nonfree.png) [Reversing: Secrets of Reverse Engineering](http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) (2005)
+
+**Released**: April 15, 2005
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"The best end-to-end treatment of the theory and practice of taking compiled binary software and working it back to its design and internal function. Read this to understand why writing your own version of IDA Pro is more trouble than its worth, or to see why you'd want to do that in the first place."
+
+### ![nonfree](img/nonfree.png) [JavaScript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) (2008)
+
+**Released**: May 1, 2008
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"This book is tiny. Most books about Javascript are 18,000 pages long, explain how to write 1000 lines of JS to make rounded corners in IE5, and suck. This book contains nothing but how to write serious code in Javascript, a surprisingly serious language that it turns out owns a surprisingly huge portion of the Internet security model by enforcing the "same origin policy" that secures browsers."
+
+### ![nonfree](img/nonfree.png) [SQL For Dummies](http://www.amazon.com/SQL-For-Dummies-Allen-Taylor/dp/0470557419) (2010)
+
+**Released**: February 2, 2010
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"You have to know SOME SQL to do web security work. My theory: the less of it you end up knowing, the happier you'll end up being. Thus: this book."
+
+### ![nonfree](img/nonfree.png) [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301) (2007)
+
+**Released**: June 17, 2007
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"You want to know how modern OS's work on x86. Especially memory management. You want to know why system calls work the way they do. You want to grok IPC. You can learn with Unix or with Windows, but Windows depth has more market value, and there's no comparably good (and modern) Unix internals book."
+
+### ![nonfree](img/nonfree.png) [The Mac Hacker's Handbook](http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362) (2009)
+
+**Released**: March 3, 2009
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Union rules require me to recommend at least one book by Charlie Miller and one book by Dino Dai Zovi, and this book, which is great, kills two birds with one stone."
+
+### ![nonfree](img/nonfree.png) [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786) (2008)
+
+**Released**: August 22, 2008
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Don't buy this until you get your IDA Pro license. And if you've been using IDA for years already, borrow it instead. But this book is the manual Hexrays should ship with the IDA, and IDA is the de facto standard binary reversing tool for our industry. Know that if you grok assembly and C, then a week or two, a copy of IDA, and this book combined will get you reversing WinAPI programs reliably."
+
+### ![nonfree](img/nonfree.png) [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436) (1998)
+
+**Released**: June 25, 1998
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Sooner or later you're going to hit a project where the only way to listen to and talk to the target is to bust out libpcap and do IO with raw frames. In TCP/IP books, there's the Comer camp and the W. Richard Stevens camp. I'm a Comer guy. This book is more general than Stevens, and works from a far cleaner codebase (Stevens' 4.4BSD, while venerable, is ugly as sin)."
+
+### ![nonfree](img/nonfree.png) [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771) (2004)
+
+**Released**: December 29, 2004
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Do any of those tools you wrote with libpcap after reading Comer & Stevens have to work fast? Do they have to deal with more than a couple hundred hosts? This book isn't cheap, and it's somewhat specialized, but it's well written, interesting, and authoritative."
+
+### ![nonfree](img/nonfree.png) [Computation Structures (MIT Electrical Engineering and Computer Science)](http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395) (1989)
+
+**Released**: December 13, 1989
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"Eventually you'll get a project that's going to involve an exotic target, maybe synthesized onto an FPGA in some crazy RISC architecture, maybe on an embedded controller you can only talk to with JTAG. You want to know how computer systems are designed and engineered from electrical signals on up. This book starts from circuits and ends with compiler design and may be all you'll ever need."
+
+### ![nonfree](img/nonfree.png) [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252) (2009)
+
+**Released**: August 3, 2009
+
+Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
+
+"One branch of binary runtime security work involves software protection, which means "copy protection" and "tamper proofing" and "anti-cheating" and "malware countermeasures" all at this same time. This book is somewhat stuffily written and uses formalisms more than case studies, but if runtime security is your thing, you'll forgive those quirks for the breadth and authority in this book."
 
 ## Classes
 

@@ -1,0 +1,7 @@
+{
+    "date": "2009-08-03",
+    "free": false,
+    "name": "Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"One branch of binary runtime security work involves software protection, which means \"copy protection\" and \"tamper proofing\" and \"anti-cheating\" and \"malware countermeasures\" all at this same time. This book is somewhat stuffily written and uses formalisms more than case studies, but if runtime security is your thing, you'll forgive those quirks for the breadth and authority in this book.\"",
+    "url": "http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252"
+}

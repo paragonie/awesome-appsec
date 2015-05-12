@@ -1,0 +1,7 @@
+{
+    "date": "2004-12-29",
+    "free": false,
+    "name": "Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"Do any of those tools you wrote with libpcap after reading Comer & Stevens have to work fast? Do they have to deal with more than a couple hundred hosts? This book isn't cheap, and it's somewhat specialized, but it's well written, interesting, and authoritative.\"",
+    "url": "http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771"
+}

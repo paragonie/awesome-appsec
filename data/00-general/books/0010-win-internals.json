@@ -1,0 +1,7 @@
+{
+    "date": "2007-06-17",
+    "free": false,
+    "name": "Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ",
+    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"You want to know how modern OS's work on x86. Especially memory management. You want to know why system calls work the way they do. You want to grok IPC. You can learn with Unix or with Windows, but Windows depth has more market value, and there's no comparably good (and modern) Unix internals book.\"",
+    "url": "http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301"
+}
