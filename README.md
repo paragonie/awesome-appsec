@@ -50,7 +50,6 @@ contributions from the application security and developer communities.
         * [Chargen: The Matasano Blog](#chargen-the-matasano-blog)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
-
   * [PHP](#php)
     * [Articles](#articles)
       * [It's All About Time](#its-all-about-time-2014) (2014)
@@ -284,7 +283,6 @@ The blog of [Matasano Security](http://matasano.com), part of NCC Group.
 #### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 The top ten most common and critical security vulnerabilities found in web applications.
-
 
 # PHP
 
