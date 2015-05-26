@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "The Matasano Crypto Challenges",
+    "remark": "A series of programming exercises for teaching oneself cryptography by [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) by Maciej Ceglowski explains it well.",
+    "url": "http://cryptopals.com"
+}

@@ -42,8 +42,11 @@ contributions from the application security and developer communities.
       * [SecurePasswords.info](#securepasswords-info)
       * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
       * [Open Security Training](#open-security-training)
+      * [MicroCorruption](#microcorruption)
+      * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
+        * [Chargen: The Matasano Blog](#chargen-the-matasano-blog)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
   * [PHP](#php)
@@ -252,11 +255,23 @@ A list of security news sources.
 
 Video courses on low-level x86 programming, hacking, and forensics.
 
+### [MicroCorruption](https://microcorruption.com/login)
+
+Capture The Flag - Learn Assembly and Embedded Device Security
+
+### [The Matasano Crypto Challenges](http://cryptopals.com)
+
+A series of programming exercises for teaching oneself cryptography by [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) by Maciej Ceglowski explains it well.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
 
 Showcasing bad cryptography
+
+#### [Chargen: The Matasano Blog](http://chargen.matasano.com/)
+
+The blog of [Matasano Security](http://matasano.com), part of NCC Group.
 
 ### Wiki pages
 
