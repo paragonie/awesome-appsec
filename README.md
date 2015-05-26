@@ -57,6 +57,7 @@ contributions from the application security and developer communities.
       * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
       * [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
       * [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
+      * [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide)
     * [Books and ebooks](#books-and-ebooks)
       * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
     * [Useful libraries](#useful-libraries)
@@ -317,6 +318,10 @@ Though this article is a few years old, much of its advice is still relevant as 
 **Released**: June 16, 2014
 
 @timoh6 explains implementing data encryption in PHP
+
+### [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide)
+
+**TL;DR** - don't escape, use prepared statements instead!
 
 ## Books and ebooks
 
