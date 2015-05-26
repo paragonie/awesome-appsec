@@ -44,6 +44,7 @@ contributions from the application security and developer communities.
       * [Open Security Training](#open-security-training)
       * [MicroCorruption](#microcorruption)
       * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
+      * [PentesterLab](#pentesterlab)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [Chargen: The Matasano Blog](#chargen-the-matasano-blog)
@@ -262,6 +263,10 @@ Capture The Flag - Learn Assembly and Embedded Device Security
 ### [The Matasano Crypto Challenges](http://cryptopals.com)
 
 A series of programming exercises for teaching oneself cryptography by [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) by Maciej Ceglowski explains it well.
+
+### PentesterLab
+
+[Pentesterlab](https://pentesterlab.com) provides [free Hands-On exercises](https://pentesterlab.com/exercises/) and a [bootcamp](https://pentesterlab.com/bootcamp/) to get started.
 
 ### Blogs
 
