@@ -73,6 +73,9 @@ contributions from the application security and developer communities.
         * [Pádraic Brady's Blog](#p%C3%A1draic-bradys-blog)
       * [Mailing lists](#mailing-lists)
         * [Securing PHP Weekly](#securing-php-weekly)
+  * [Node.js](#node-js)
+    * [Training](#training)
+      * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
 
 
 # General
@@ -372,3 +375,11 @@ Pádraic Brady is a Zend Framework security expert
 #### [Securing PHP Weekly](http://securingphp.com)
 
 A weekly newsletter about PHP, security, and the community.
+
+# Node.js
+
+## Training
+
+### ![nonfree](img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
+
+Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
