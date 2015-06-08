@@ -34,6 +34,7 @@ contributions from the application security and developer communities.
       * [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](#-network-algorithmics-an-interdisciplinary-approach-to-designing-fast-networked-devices-2004) (2004) ![nonfree](img/nonfree.png)
       * [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](img/nonfree.png)
       * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
+      * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
     * [Websites](#websites)
@@ -226,6 +227,12 @@ Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http
 Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)
 
 "One branch of binary runtime security work involves software protection, which means "copy protection" and "tamper proofing" and "anti-cheating" and "malware countermeasures" all at this same time. This book is somewhat stuffily written and uses formalisms more than case studies, but if runtime security is your thing, you'll forgive those quirks for the breadth and authority in this book."
+
+### [Secure Programming HOWTO](http://www.dwheeler.com/secure-programs/) (2015)
+
+**Released**: March 1, 2015
+
+
 
 ## Classes
 

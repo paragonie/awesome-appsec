@@ -185,7 +185,8 @@ class Util
             $body .= '**Released**: '.$dt->format('F j, Y')."\n\n";
         }
         
-        $body .= $fd['remark']."\n";
+        $body .= isset($fd['remark']) ? $fd['remark'] : '';
+        $body .= "\n";
 
         return $body;
     }
