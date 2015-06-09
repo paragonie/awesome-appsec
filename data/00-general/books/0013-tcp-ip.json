@@ -2,6 +2,5 @@
     "date": "1998-06-25",
     "free": false,
     "name": "Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)",
-    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"Sooner or later you're going to hit a project where the only way to listen to and talk to the target is to bust out libpcap and do IO with raw frames. In TCP/IP books, there's the Comer camp and the W. Richard Stevens camp. I'm a Comer guy. This book is more general than Stevens, and works from a far cleaner codebase (Stevens' 4.4BSD, while venerable, is ugly as sin).\"",
     "url": "http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436"
 }

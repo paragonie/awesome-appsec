@@ -2,6 +2,5 @@
     "date": "2008-08-22",
     "free": false,
     "name": "The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler",
-    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"Don't buy this until you get your IDA Pro license. And if you've been using IDA for years already, borrow it instead. But this book is the manual Hexrays should ship with the IDA, and IDA is the de facto standard binary reversing tool for our industry. Know that if you grok assembly and C, then a week or two, a copy of IDA, and this book combined will get you reversing WinAPI programs reliably.\"",
     "url": "http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786"
 }

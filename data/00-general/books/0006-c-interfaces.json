@@ -2,6 +2,5 @@
     "date": "1996-08-30",
     "free": false,
     "name": "C Interfaces and Implementations: Techniques for Creating Reusable Software",
-    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"You need C. This is the single best book on C software development that has ever been written. It takes everything you've been doing in Python, Ruby, or Perl, but have lost in C, and gives it back to you - while explaining each line of code it takes to do that, and making you a competent C API designer in the process.\"",
     "url": "http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/"
 }

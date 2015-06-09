@@ -2,6 +2,5 @@
     "date": "2005-04-15",
     "free": false,
     "name": "Reversing: Secrets of Reverse Engineering",
-    "remark": "Imported from [Thomas Ptacek's Application Security Reading List on Amazon](http://www.amazon.com/lm/R2EN4JTQOCHNBA)\n\n\"The best end-to-end treatment of the theory and practice of taking compiled binary software and working it back to its design and internal function. Read this to understand why writing your own version of IDA Pro is more trouble than its worth, or to see why you'd want to do that in the first place.\"",
     "url": "http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817"
 }
