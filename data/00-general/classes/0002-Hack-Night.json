@@ -1,6 +1,6 @@
 {
     "free": true,
-    "name": "Hack Night,
+    "name": "Hack Night",
     "remark": "Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.",
     "url": "https://github.com/isislab/Hack-Night"
 }
