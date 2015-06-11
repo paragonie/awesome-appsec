@@ -40,6 +40,7 @@ useful for tomorrow's application security experts.
       * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
+      * [Hack Night](#hack-night)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Web App Sec Quiz](#web-app-sec-quiz)
@@ -203,6 +204,10 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 A vulnerability research and exploit development class by Owen Redwood of Florida State University. 
 
 **Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
+
+### [Hack Night](https://github.com/isislab/Hack-Night)
+
+Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
 ## Websites
 
