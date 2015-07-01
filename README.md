@@ -62,6 +62,7 @@ useful for tomorrow's application security experts.
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2015) (2015)
   * [C++](#c)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
@@ -306,6 +307,12 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 **Released**: February 24, 2015
 
 A community-maintained Wiki detailing secure coding standards for Android development.
+
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
+
+**Released**: June 30, 2015
+
+Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
 # C++
 

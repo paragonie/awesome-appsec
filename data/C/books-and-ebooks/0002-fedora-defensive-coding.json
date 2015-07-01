@@ -1,0 +1,7 @@
+{
+    "date": "2012",
+    "free": true,
+    "name": "Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team",
+    "remark": "Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.",
+    "url": "https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html"
+}
