@@ -86,6 +86,10 @@ useful for tomorrow's application security experts.
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Perl Coding Standard](#sei-cert-perl-coding-standard-2011) (2011)
   * [Python](#python)
+    * [Books and ebooks](#books-and-ebooks)
+      * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
+    * [Websites](#websites)
+      * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
@@ -378,6 +382,20 @@ A weekly newsletter about PHP, security, and the community.
 A community-maintained Wiki detailing secure coding standards for Perl programming.
 
 # Python
+
+## Books and ebooks
+
+### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
+
+Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+
+## Websites
+
+### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
+
+**Released**: June 21, 2014
+
+A wiki maintained by the OWASP Python Security project.
 
 # Ruby
 
