@@ -82,6 +82,9 @@ useful for tomorrow's application security experts.
   * [Node.js](#node-js)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
+  * [Ruby](#ruby)
+    * [Books and ebooks](#books-and-ebooks)
+      * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
 
 
 # General
@@ -359,3 +362,13 @@ A weekly newsletter about PHP, security, and the community.
 ### ![nonfree](img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
 
 Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
+
+# Ruby
+
+## Books and ebooks
+
+### [Secure Ruby Development Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Secure_Ruby_Development_Guide/index.html) (2014)
+
+**Released**: March 10, 2014
+
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
