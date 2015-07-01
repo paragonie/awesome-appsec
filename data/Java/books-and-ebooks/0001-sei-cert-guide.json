@@ -1,0 +1,7 @@
+{
+    "name": "SEI CERT C Coding Standard",
+    "date": "2006-05-24",
+    "free": true,
+    "remark": "A community-maintained Wiki detailing secure coding standards for C programming.",
+    "url": "https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard"
+}

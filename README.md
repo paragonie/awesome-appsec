@@ -56,6 +56,18 @@ useful for tomorrow's application security experts.
         * [Chargen: The Matasano Blog](#chargen-the-matasano-blog)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
+  * [Android](#android)
+    * [Books and ebooks](#books-and-ebooks)
+      * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
+  * [C](#c)
+    * [Books and ebooks](#books-and-ebooks)
+      * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
+  * [C++](#c)
+    * [Books and ebooks](#books-and-ebooks)
+      * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
+  * [Java](#java)
+    * [Books and ebooks](#books-and-ebooks)
+      * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
   * [Node.js](#node-js)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
@@ -274,6 +286,46 @@ The blog of [Matasano Security](http://matasano.com), part of NCC Group.
 #### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 The top ten most common and critical security vulnerabilities found in web applications.
+
+# Android
+
+## Books and ebooks
+
+### [SEI CERT Java Coding Standard](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) (2007)
+
+**Released**: January 12, 2007
+
+A community-maintained Wiki detailing secure coding standards for Java programming.
+
+# C
+
+## Books and ebooks
+
+### [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard) (2015)
+
+**Released**: February 24, 2015
+
+A community-maintained Wiki detailing secure coding standards for Android development.
+
+# C++
+
+## Books and ebooks
+
+### [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637) (2006)
+
+**Released**: July 18, 2006
+
+A community-maintained Wiki detailing secure coding standards for C++ programming.
+
+# Java
+
+## Books and ebooks
+
+### [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard) (2006)
+
+**Released**: May 24, 2006
+
+A community-maintained Wiki detailing secure coding standards for C programming.
 
 # Node.js
 
