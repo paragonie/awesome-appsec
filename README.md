@@ -69,6 +69,7 @@ useful for tomorrow's application security experts.
   * [Java](#java)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
+      * [Secure Coding Guidelines for Java SE ](#secure-coding-guidelines-for-java-se-2014) (2014)
   * [Node.js](#node-js)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
@@ -333,6 +334,12 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 **Released**: May 24, 2006
 
 A community-maintained Wiki detailing secure coding standards for C programming.
+
+### [Secure Coding Guidelines for Java SE ](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
+
+**Released**: April 2, 2014
+
+Secure Java programming guidelines straight from Oracle.
 
 # Node.js
 
