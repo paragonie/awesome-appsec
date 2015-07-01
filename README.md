@@ -85,6 +85,9 @@ useful for tomorrow's application security experts.
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
+  * [Perl](#perl)
+    * [Books and ebooks](#books-and-ebooks)
+      * [SEI CERT Perl Coding Standard](#sei-cert-perl-coding-standard-2011) (2011)
 
 
 # General
@@ -372,3 +375,13 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 **Released**: March 10, 2014
 
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+
+# Perl
+
+## Books and ebooks
+
+### [SEI CERT Perl Coding Standard](https://www.securecoding.cert.org/confluence/display/perl/SEI+CERT+Perl+Coding+Standard) (2011)
+
+**Released**: January 10, 2011
+
+A community-maintained Wiki detailing secure coding standards for Perl programming.
