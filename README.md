@@ -123,7 +123,7 @@ Advice on cryptographically secure pseudo-random number generators.
 
 **Released**: August 6, 2014
 
-A post on [Crackstation](https://crackstation.net), a projecy by [Defuse Security](https://defuse.ca)
+A post on [Crackstation](https://crackstation.net), a project by [Defuse Security](https://defuse.ca)
 
 ### [A good idea with bad usage: /dev/urandom](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
 
