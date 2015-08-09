@@ -64,6 +64,9 @@ useful for tomorrow's application security experts.
   * [C++](#c)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
+  * [C Sharp](#c-sharp)
+    * [Books and ebooks](#books-and-ebooks)
+      * [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](img/nonfree.png)
   * [Java](#java)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
@@ -323,6 +326,16 @@ Provides guidelines for improving software security through secure coding. Cover
 **Released**: July 18, 2006
 
 A community-maintained Wiki detailing secure coding standards for C++ programming.
+
+# C Sharp
+
+## Books and ebooks
+
+### ![nonfree](img/nonfree.png) [Security Driven .NET](http://securitydriven.net/) (2015)
+
+**Released**: July 14, 2015
+
+An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
 
 # Java
 
