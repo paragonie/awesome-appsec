@@ -3,8 +3,6 @@
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
 
-More curated lists can be found at [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
-
 Maintained by [Paragon Initiative Enterprises](https://paragonie.com) with
 contributions from the application security and developer communities. We also
 have [other community projects](https://paragonie.com/projects) which might be
@@ -81,6 +79,7 @@ useful for tomorrow's application security experts.
       * [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
       * [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
       * [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide)
+      * [You Wouldn't Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
     * [Books and ebooks](#books-and-ebooks)
       * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
     * [Useful libraries](#useful-libraries)
@@ -311,7 +310,7 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: June 30, 2015
+**Released**: August 9, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -386,6 +385,14 @@ Though this article is a few years old, much of its advice is still relevant as 
 ### [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide)
 
 **TL;DR** - don't escape, use prepared statements instead!
+
+### [You Wouldn't Base64 a Password - Cryptography Decoded](https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded) (2015)
+
+**Released**: August 7, 2015
+
+A human-readable overview of commonly misused cryptography terms and fundamental concepts, with example code in PHP.
+
+If you're confused about cryptography terms, start here.
 
 ## Books and ebooks
 

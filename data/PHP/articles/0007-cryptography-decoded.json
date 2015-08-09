@@ -1,0 +1,7 @@
+{
+    "date": "2015-08-07",
+    "free": true,
+    "name": "You Wouldn't Base64 a Password - Cryptography Decoded",
+    "remark": "A human-readable overview of commonly misused cryptography terms and fundamental concepts, with example code in PHP.\n\nIf you're confused about cryptography terms, start here.",
+    "url": "https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded"
+}
