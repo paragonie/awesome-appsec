@@ -93,7 +93,7 @@ useful for tomorrow's application security experts.
       * [ircmaxell/RandomLib](#ircmaxell-randomlib)
       * [thephpleague/oauth2-server](#thephpleague-oauth2-server)
       * [paragonie/random_compat](#paragonie-random-compat)
-      * [Gatekeeper](#gatekeeper)
+      * [psecio/gatekeeper](#psecio-gatekeeper)
     * [Websites](#websites)
       * [websec.io](#websec-io)
       * [Blogs](#blogs)
@@ -457,7 +457,7 @@ A secure OAuth2 server implementation
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
-### [Gatekeeper](https://github.com/psecio/gatekeeper)
+### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
