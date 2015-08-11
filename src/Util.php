@@ -127,9 +127,25 @@ class Util
         
         // Handle duplication
         $desired = self::slugEscape($string);
-        $i = 2;
-        while(\in_array($desired, $slugs)) {
-            $desired = self::slugEscape($string).'.'.$i;
+        $i = 1;
+        $check = \trim(
+            \preg_replace(
+                '#\-{2,}#', 
+                '-',
+                \preg_replace('#[^0-9a-z%A-F]#', '-', \urlencode(\strtolower($desired)))
+            ),
+            '-'
+        );
+        while(\in_array($check, $slugs)) {
+            $desired = self::slugEscape($string).'-'.$i;
+            $check = \trim(
+                \preg_replace(
+                    '#\-{2,}#', 
+                    '-',
+                    \preg_replace('#[^0-9a-z%A-F]#', '-', \urlencode(\strtolower($desired)))
+                ),
+                '-'
+            );
             ++$i;
         }
         
