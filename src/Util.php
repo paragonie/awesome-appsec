@@ -1,7 +1,7 @@
 <?php
 namespace ParagonIE\AwesomeAppsec;
 
-class Util 
+class Util
 {
     public static $toc;
     public static $compiled;
@@ -71,84 +71,6 @@ class Util
     }
 
     /**
-     * Generate a directory's title for the table of contents.
-     * 
-     * @param string $dirname
-     * @param int $depth
-     * @return string
-     */
-    protected static function tocDirTitle($dirname, $depth = 1)
-    {
-        if (\preg_match('#^.+/([^/]+)$#', $dirname, $m)) {
-            $dirname = $m[1];
-        }
-        if (\preg_match('#^[0-9]+\-(.*)$#', $dirname, $m)) {
-            $dirname = $m[1];
-        }
-        
-        $dirname = \ucfirst(\str_replace('-', ' ', $dirname));
-        
-        return \str_repeat('  ', $depth).
-            '* ['.
-                $dirname.
-            '](#'.
-                self::makeSlug($dirname).
-            ")\n";
-    }
-    
-
-    /**
-     * Generate a file's title for the table of contents.
-     * 
-     * @param string $file
-     * @param int $depth
-     * @return string
-     */
-    protected static function tocFileTitle($file, $depth = 1)
-    {
-        if (!\preg_match('#^.+/([^/]+)\.json$#', $file, $m)) {
-            return '';
-        }
-        $fd = \json_decode(
-            \file_get_contents($file),
-            true
-        );
-        $nonfree = false;
-        if (\array_key_exists('free', $fd)) {
-            if (!$fd['free']) {
-                $nonfree = true;
-            }
-        }
-        if (isset($fd['date'])) {
-            $dt = new \DateTime($fd['date']);
-        }
-        $label = str_repeat('  ', $depth).
-            '* ['.
-                $fd['name'].
-            '](#'.
-            ($nonfree ? '-' : '').
-            self::makeSlug(
-                $fd['name'].
-                (
-                    isset($fd['date']) 
-                        ? ('-'.$dt->format('Y'))
-                        : ''
-                )
-            ).
-            ')';
-        
-        if (isset($fd['date'])) {
-            $label .= ' ('.$dt->format('Y').')';
-        }
-        
-        if ($nonfree) {
-            $label .= ' ![nonfree](img/nonfree.png)' ;
-        }
-        
-        return $label."\n";
-    }
-
-    /**
      * Builds a piece of a Markdown document, given a JSON file
      * 
      * @param string $file
@@ -214,7 +136,7 @@ class Util
         $finalSlug = \trim(
             \preg_replace(
                 '#\-{2,}#', 
-                '-', 
+                '-',
                 \preg_replace('#[^0-9a-z%A-F]#', '-', \urlencode(\strtolower($desired)))
             ),
             '-'
@@ -225,6 +147,12 @@ class Util
         return $finalSlug;
     }
     
+    /**
+     * Escape characters
+     * 
+     * @param string $string
+     * @return string
+     */
     public function slugEscape($string)
     {
         return \preg_replace(
@@ -232,7 +160,88 @@ class Util
                 '#[\x20-\x2f\x3a-\x40\x5c-\x60\x7b-\x7f]#'
             ],
             '-',
-            \str_replace("'", '', $string)
+            \str_replace(
+                ["'", '/'], 
+                '',
+                $string
+            )
         );
+    }
+    
+    /**
+     * Generate a directory's title for the table of contents.
+     * 
+     * @param string $dirname
+     * @param int $depth
+     * @return string
+     */
+    protected static function tocDirTitle($dirname, $depth = 1)
+    {
+        if (\preg_match('#^.+/([^/]+)$#', $dirname, $m)) {
+            $dirname = $m[1];
+        }
+        if (\preg_match('#^[0-9]+\-(.*)$#', $dirname, $m)) {
+            $dirname = $m[1];
+        }
+        
+        $dirname = \ucfirst(\str_replace('-', ' ', $dirname));
+        
+        return \str_repeat('  ', $depth).
+            '* ['.
+                $dirname.
+            '](#'.
+                self::makeSlug($dirname).
+            ")\n";
+    }
+    
+    /**
+     * Generate a file's title for the table of contents.
+     * 
+     * @param string $file
+     * @param int $depth
+     * @return string
+     */
+    protected static function tocFileTitle($file, $depth = 1)
+    {
+        if (!\preg_match('#^.+/([^/]+)\.json$#', $file, $m)) {
+            return '';
+        }
+        $fd = \json_decode(
+            \file_get_contents($file),
+            true
+        );
+        $nonfree = false;
+        if (\array_key_exists('free', $fd)) {
+            if (!$fd['free']) {
+                $nonfree = true;
+            }
+        }
+        if (isset($fd['date'])) {
+            $dt = new \DateTime($fd['date']);
+        }
+        $label = str_repeat('  ', $depth).
+            '* ['.
+                $fd['name'].
+            '](#'.
+            ($nonfree ? '-' : '').
+            self::makeSlug(
+                $fd['name'].
+                (
+                    isset($fd['date']) 
+                        ? ('-'.$dt->format('Y'))
+                        : ''
+                )
+            ).
+            ')';
+        
+        if (isset($fd['date'])) {
+            $label .= ' ('.$dt->format('Y').')';
+        }
+        
+        if ($nonfree) {
+            $label .= ' ![nonfree](img/nonfree.png)' ;
+        }
+        
+        return $label."\n";
     }
 }
