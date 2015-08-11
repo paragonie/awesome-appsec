@@ -1,0 +1,5 @@
+{
+    "name": "paragonie/random_compat",
+    "remark": "PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.",
+    "url": "https://github.com/paragonie/random_compat"
+}

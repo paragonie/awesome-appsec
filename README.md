@@ -20,6 +20,7 @@ useful for tomorrow's application security experts.
       * [How to Safely Generate a Random Number](#how-to-safely-generate-a-random-number-2014) (2014)
       * [Salted Password Hashing - Doing it Right](#salted-password-hashing-doing-it-right-2014) (2014)
       * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usage-dev-urandom-2014) (2014)
+      * [Why Invest in Application Security?](#why-invest-in-application-security-2015) (2015)
     * [Books](#books)
       * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
@@ -81,8 +82,9 @@ useful for tomorrow's application security experts.
       * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
       * [25 PHP Security Best Practices For Sys Admins](#25-php-security-best-practices-for-sys-admins-2011) (2011)
       * [PHP data encryption primer](#php-data-encryption-primer-2014) (2014)
-      * [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide)
+      * [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide-2014) (2014)
       * [You Wouldn't Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
+      * [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
     * [Books and ebooks](#books-and-ebooks)
       * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
     * [Useful libraries](#useful-libraries)
@@ -90,6 +92,8 @@ useful for tomorrow's application security experts.
       * [ircmaxell/password_compat](#ircmaxell-password-compat)
       * [ircmaxell/RandomLib](#ircmaxell-randomlib)
       * [thephpleague/oauth2-server](#thephpleague-oauth2-server)
+      * [paragonie/random_compat](#paragonie-random-compat)
+      * [Gatekeeper](#gatekeeper)
     * [Websites](#websites)
       * [websec.io](#websec-io)
       * [Blogs](#blogs)
@@ -132,6 +136,16 @@ A post on [Crackstation](https://crackstation.net), a project by [Defuse Securit
 **Released**: May 3, 2014
 
 Mentions many ways to make `/dev/urandom` fail on Linux/BSD.
+
+### [Why Invest in Application Security?](https://paragonie.com/white-paper/2015-why-invest-application-security) (2015)
+
+**Released**: June 21, 2015
+
+Running a business requires being cost-conscious and minimizing unnecessary spending. The benefits of ensuring in the security of your application are invisible to most companies, so often times they neglect to invest in secure software development as a cost-saving measure. What these companies don't realize is the potential cost (both financial and to brand reputation) a preventable data compromise can incur.
+
+**The average data breach costs millions of dollars in damage.**
+
+Investing more time and personnel to develop secure software is, for most companies, worth it to minimize this unnecessary risk to their bottom line.
 
 ## Books
 
@@ -395,7 +409,9 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 @timoh6 explains implementing data encryption in PHP
 
-### [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide)
+### [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide) (2014)
+
+**Released**: May 26, 2014
 
 **TL;DR** - don't escape, use prepared statements instead!
 
@@ -406,6 +422,12 @@ Though this article is a few years old, much of its advice is still relevant as 
 A human-readable overview of commonly misused cryptography terms and fundamental concepts, with example code in PHP.
 
 If you're confused about cryptography terms, start here.
+
+### [A Guide to Secure Data Encryption in PHP Applications](https://paragonie.com/white-paper/2015-secure-php-data-encryption) (2015)
+
+**Released**: August 2, 2015
+
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ## Books and ebooks
 
@@ -430,6 +452,14 @@ Useful for generating random strings or numbers
 ### [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
+
+### [paragonie/random_compat](https://github.com/paragonie/random_compat)
+
+PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
+
+### [Gatekeeper](https://github.com/psecio/gatekeeper)
+
+A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
 ## Websites
 

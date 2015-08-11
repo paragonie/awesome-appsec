@@ -1,0 +1,7 @@
+{
+    "date": "2015-08-02",
+    "free": true,
+    "name": "A Guide to Secure Data Encryption in PHP Applications",
+    "remark": "Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption), or OpenSSL.",
+    "url": "https://paragonie.com/white-paper/2015-secure-php-data-encryption"
+}
