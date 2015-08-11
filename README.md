@@ -56,10 +56,10 @@ useful for tomorrow's application security experts.
         * [OWASP Top Ten Project](#owasp-top-ten-project)
   * [Android](#android)
     * [Books and ebooks](#books-and-ebooks)
-      * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
+      * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks)
-      * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
+      * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
       * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2015) (2015)
   * [C++](#c)
     * [Books and ebooks](#books-and-ebooks)
@@ -69,7 +69,7 @@ useful for tomorrow's application security experts.
       * [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](img/nonfree.png)
   * [Java](#java)
     * [Books and ebooks](#books-and-ebooks)
-      * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
+      * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
       * [Secure Coding Guidelines for Java SE ](#secure-coding-guidelines-for-java-se-2014) (2014)
   * [Node.js](#node-js)
     * [Training](#training)
@@ -295,25 +295,25 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 ## Books and ebooks
 
-### [SEI CERT Java Coding Standard](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) (2007)
-
-**Released**: January 12, 2007
-
-A community-maintained Wiki detailing secure coding standards for Java programming.
-
-# C
-
-## Books and ebooks
-
 ### [SEI CERT Android Secure Coding Standard](https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard) (2015)
 
 **Released**: February 24, 2015
 
 A community-maintained Wiki detailing secure coding standards for Android development.
 
+# C
+
+## Books and ebooks
+
+### [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard) (2006)
+
+**Released**: May 24, 2006
+
+A community-maintained Wiki detailing secure coding standards for C programming.
+
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: August 9, 2015
+**Released**: August 11, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -341,11 +341,11 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ## Books and ebooks
 
-### [SEI CERT C Coding Standard](https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard) (2006)
+### [SEI CERT Java Coding Standard](https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java) (2007)
 
-**Released**: May 24, 2006
+**Released**: January 12, 2007
 
-A community-maintained Wiki detailing secure coding standards for C programming.
+A community-maintained Wiki detailing secure coding standards for Java programming.
 
 ### [Secure Coding Guidelines for Java SE ](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
 

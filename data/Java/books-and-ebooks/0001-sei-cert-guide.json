@@ -1,7 +1,7 @@
 {
-    "name": "SEI CERT C Coding Standard",
-    "date": "2006-05-24",
+    "name": "SEI CERT Java Coding Standard",
+    "date": "2007-01-12",
     "free": true,
-    "remark": "A community-maintained Wiki detailing secure coding standards for C programming.",
-    "url": "https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard"
+    "remark": "A community-maintained Wiki detailing secure coding standards for Java programming.",
+    "url": "https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java"
 }

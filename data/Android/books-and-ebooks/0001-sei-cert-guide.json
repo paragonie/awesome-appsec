@@ -1,7 +1,7 @@
 {
-    "name": "SEI CERT Java Coding Standard",
-    "date": "2007-01-12",
+    "name": "SEI CERT Android Secure Coding Standard",
+    "date": "2015-02-24",
     "free": true,
-    "remark": "A community-maintained Wiki detailing secure coding standards for Java programming.",
-    "url": "https://www.securecoding.cert.org/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java"
+    "remark": "A community-maintained Wiki detailing secure coding standards for Android development.",
+    "url": "https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard"
 }

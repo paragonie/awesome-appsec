@@ -1,7 +1,7 @@
 {
-    "name": "SEI CERT Android Secure Coding Standard",
-    "date": "2015-02-24",
+    "name": "SEI CERT C Coding Standard",
+    "date": "2006-05-24",
     "free": true,
-    "remark": "A community-maintained Wiki detailing secure coding standards for Android development.",
-    "url": "https://www.securecoding.cert.org/confluence/display/android/Android+Secure+Coding+Standard"
+    "remark": "A community-maintained Wiki detailing secure coding standards for C programming.",
+    "url": "https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard"
 }
