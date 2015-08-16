@@ -8,6 +8,9 @@ contributions from the application security and developer communities. We also
 have [other community projects](https://paragonie.com/projects) which might be
 useful for tomorrow's application security experts.
 
+If you are an absolute beginner to the topic of software security, you may benefit
+from reading [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
+
 # Contributing
 
 [Please refer to the contributing guide for details](CONTRIBUTING.md).

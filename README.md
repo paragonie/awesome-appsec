@@ -8,6 +8,9 @@ contributions from the application security and developer communities. We also
 have [other community projects](https://paragonie.com/projects) which might be
 useful for tomorrow's application security experts.
 
+If you are an absolute beginner to the topic of software security, you may benefit
+from reading [A Gentle Introduction to Application Security](https://paragonie.com/blog/2015/08/gentle-introduction-application-security).
+
 # Contributing
 
 [Please refer to the contributing guide for details](CONTRIBUTING.md).
@@ -295,9 +298,9 @@ An intentionally insecure Javascript Web Application.
 
 Showcasing bad cryptography
 
-#### [Chargen: The Matasano Blog](http://chargen.matasano.com/)
+#### [Chargen: The Matasano Blog](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/)
 
-The blog of [Matasano Security](http://matasano.com), part of NCC Group.
+The blog of NCC Group.
 
 ### Wiki pages
 
@@ -327,7 +330,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: August 11, 2015
+**Released**: August 16, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
