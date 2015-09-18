@@ -55,7 +55,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Juice Shop](#juice-shop)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
-        * [Chargen: The Matasano Blog](#chargen-the-matasano-blog)
+        * [NCC Group - Blog](#ncc-group-blog)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
   * [Android](#android)
@@ -90,6 +90,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
     * [Books and ebooks](#books-and-ebooks-5)
       * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
+      * [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
     * [Useful libraries](#useful-libraries)
       * [defuse/php-encryption](#defusephp-encryption)
       * [ircmaxell/password_compat](#ircmaxellpassword-compat)
@@ -298,9 +299,9 @@ An intentionally insecure Javascript Web Application.
 
 Showcasing bad cryptography
 
-#### [Chargen: The Matasano Blog](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/)
+#### [NCC Group - Blog](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/)
 
-The blog of NCC Group.
+The blog of NCC Group, formerly Matasano, iSEC Partners, and NGS Secure.
 
 ### Wiki pages
 
@@ -330,7 +331,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: August 16, 2015
+**Released**: September 17, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -437,6 +438,10 @@ Discusses the importance of end-to-end network-layer encryption (HTTPS) as well 
 ### ![nonfree](img/nonfree.png) [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
 
 *Securing PHP: Core Concepts* acts as a guide to some of the most common security terms and provides some examples of them in every day PHP.
+
+### [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+
+You shouldn't need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.
 
 ## Useful libraries
 

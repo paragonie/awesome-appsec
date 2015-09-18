@@ -1,6 +1,6 @@
 <?php
 /**
- * This code just recursively hacks together the README.md file based on the 
+ * This code just recursively hacks together the README.md file based on the
  * data/ directory and builds a table of contents at the top.
  */
 

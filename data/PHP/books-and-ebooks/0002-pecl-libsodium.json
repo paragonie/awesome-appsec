@@ -1,0 +1,6 @@
+{
+    "name": "Using Libsodium in PHP Projects",
+    "free": true,
+    "remark": "You shouldn't need a Ph.D in Applied Cryptography to build a secure web application. Enter libsodium, which allows developers to develop fast, secure, and reliable applications without needing to know what a stream cipher even is.",
+    "url": "https://paragonie.com/book/pecl-libsodium"
+}
