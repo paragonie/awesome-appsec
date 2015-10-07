@@ -40,6 +40,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](img/nonfree.png)
       * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
       * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
+      * [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
@@ -243,6 +244,12 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 
 
 
+### [Security Engineering - Second Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2008)
+
+**Released**: April 14, 2008
+
+
+
 ## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
@@ -331,7 +338,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: September 17, 2015
+**Released**: October 7, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
