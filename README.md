@@ -77,10 +77,12 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
       * [Secure Coding Guidelines for Java SE ](#secure-coding-guidelines-for-java-se-2014) (2014)
   * [Node.js](#node-js)
+    * [Articles](#articles-1)
+      * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
   * [PHP](#php)
-    * [Articles](#articles-1)
+    * [Articles](#articles-2)
       * [It's All About Time](#its-all-about-time-2014) (2014)
       * [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
       * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
@@ -338,7 +340,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: October 7, 2015
+**Released**: October 21, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -379,6 +381,14 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 Secure Java programming guidelines straight from Oracle.
 
 # Node.js
+
+## Articles
+
+### [Node.js Security Checklist - Rising Stack Blog](https://blog.risingstack.com/node-js-security-checklist/) (2015)
+
+**Released**: October 13, 2015
+
+Covers a lot of useful information for developing secure Node.js applications.
 
 ## Training
 
