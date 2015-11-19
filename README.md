@@ -46,6 +46,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Hack Night](#hack-night)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
+      * [Enigma Group](#enigma-group)
       * [Web App Sec Quiz](#web-app-sec-quiz)
       * [SecurePasswords.info](#securepasswords-info)
       * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
@@ -270,6 +271,10 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 Learn about application security by attempting to hack this website.
 
+### [Enigma Group](http://www.enigmagroup.org)
+
+Where hackers and security experts come to train.
+
 ### [Web App Sec Quiz](https://timoh6.github.io/WebAppSecQuiz/)
 
 Self-assessment quiz for web application security
@@ -340,7 +345,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
 
-**Released**: October 21, 2015
+**Released**: November 19, 2015
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
