@@ -66,7 +66,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2015) (2015)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2016) (2016)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
@@ -76,7 +76,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Java](#java)
     * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
-      * [Secure Coding Guidelines for Java SE ](#secure-coding-guidelines-for-java-se-2014) (2014)
+      * [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
   * [Node.js](#node-js)
     * [Articles](#articles-1)
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
@@ -116,6 +116,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Python](#python)
     * [Books and ebooks](#books-and-ebooks-7)
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
+      * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
@@ -343,9 +344,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2015)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2016)
 
-**Released**: November 19, 2015
+**Released**: February 29, 2016
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -379,7 +380,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 A community-maintained Wiki detailing secure coding standards for Java programming.
 
-### [Secure Coding Guidelines for Java SE ](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
+### [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
 
 **Released**: April 2, 2014
 
@@ -534,6 +535,10 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 ### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+
+### ![nonfree](img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+
+Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
 ## Websites
 
