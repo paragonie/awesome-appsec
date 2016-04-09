@@ -24,6 +24,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Salted Password Hashing - Doing it Right](#salted-password-hashing-doing-it-right-2014) (2014)
       * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usage-devurandom-2014) (2014)
       * [Why Invest in Application Security?](#why-invest-in-application-security-2015) (2015)
+      * [Be wary of one-time pads and other crypto unicorns](#be-wary-of-one-time-pads-and-other-crypto-unicorns-2015) (2015)
     * [Books](#books)
       * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
@@ -155,6 +156,12 @@ Running a business requires being cost-conscious and minimizing unnecessary spen
 **The average data breach costs millions of dollars in damage.**
 
 Investing more time and personnel to develop secure software is, for most companies, worth it to minimize this unnecessary risk to their bottom line.
+
+### [Be wary of one-time pads and other crypto unicorns](https://freedom-to-tinker.com/blog/jbonneau/be-wary-of-one-time-pads-and-other-crypto-unicorns/) (2015)
+
+**Released**: March 25, 2015
+
+A **must-read** for anyone looking to build their own cryptography features.
 
 ## Books
 
@@ -346,7 +353,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2016)
 
-**Released**: February 29, 2016
+**Released**: April 9, 2016
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
