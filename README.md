@@ -80,7 +80,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
   * [Node.js](#node-js)
     * [Articles](#articles-1)
-      * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
+      * [Node.js Security Checklist - Rising Stack Blog](#nodejs-security-checklist---rising-stack-blog-2015) (2015)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
   * [PHP](#php)
