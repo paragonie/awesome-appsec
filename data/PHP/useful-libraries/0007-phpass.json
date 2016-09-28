@@ -1,0 +1,5 @@
+{
+    "name": "openwall/phpass",
+    "remark": "A portable public domain password hashing framework for use in PHP applications.",
+    "url": "http://www.openwall.com/phpass/"
+}
