@@ -42,6 +42,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
       * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
       * [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
+      * [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](img/nonfree.png)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
@@ -56,11 +57,17 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
       * [PentesterLab](#pentesterlab)
       * [Juice Shop](#juice-shop)
+      * [Supercar Showdown](#supercar-showdown)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
+        * [Scott Helme](#scott-helme)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
+      * [Tools](#tools)
+        * [Qualys SSL Labs](#qualys-ssl-labs)
+        * [securityheaders.io](#securityheaders-io)
+        * [report-uri.io](#report-uri-io)
   * [Android](#android)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
@@ -103,6 +110,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [thephpleague/oauth2-server](#thephpleagueoauth2-server)
       * [paragonie/random_compat](#paragonierandom-compat)
       * [psecio/gatekeeper](#pseciogatekeeper)
+      * [openwall/phpass](#openwallphpass)
     * [Websites](#websites-1)
       * [websec.io](#websec-io)
       * [Blogs](#blogs-1)
@@ -261,6 +269,12 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 
 
 
+### ![nonfree](img/nonfree.png) [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (2014)
+
+**Released**: August 1, 2014
+
+
+
 ## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
@@ -315,6 +329,10 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 An intentionally insecure Javascript Web Application.
 
+### [Supercar Showdown](http://hackyourselffirst.troyhunt.com/)
+
+How to go on the offence before online attackers do.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -325,11 +343,29 @@ Showcasing bad cryptography
 
 The blog of NCC Group, formerly Matasano, iSEC Partners, and NGS Secure.
 
+#### [Scott Helme](https://scotthelme.co.uk)
+
+Learn about security and performance.
+
 ### Wiki pages
 
 #### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 
 The top ten most common and critical security vulnerabilities found in web applications.
+
+### Tools
+
+#### [Qualys SSL Labs](https://www.ssllabs.com/)
+
+The infamous suite of SSL and TLS tools.
+
+#### [securityheaders.io](https://securityheaders.io/)
+
+Quickly and easily assess the security of your HTTP response headers.
+
+#### [report-uri.io](https://report-uri.io)
+
+A free CSP and HPKP reporting service.
 
 # Android
 
@@ -353,7 +389,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2016)
 
-**Released**: April 9, 2016
+**Released**: September 28, 2016
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -498,6 +534,10 @@ PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`.
 ### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
+
+### [openwall/phpass](http://www.openwall.com/phpass/)
+
+A portable public domain password hashing framework for use in PHP applications.
 
 ## Websites
 
