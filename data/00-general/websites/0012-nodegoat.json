@@ -1,0 +1,5 @@
+{
+    "name": "OWASP NodeGoat",
+    "remark": "Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.",
+    "url": "https://github.com/owasp/nodegoat"
+}
