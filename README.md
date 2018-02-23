@@ -90,6 +90,8 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
+    * [Books and ebooks](#books-and-ebooks-9)
+      * [Essential Node.js Security](#-essential-nodejs-security) (2017) ![nonfree](img/nonfree.png)
   * [PHP](#php)
     * [Articles](#articles-2)
       * [It's All About Time](#its-all-about-time-2014) (2014)
@@ -444,6 +446,14 @@ Covers a lot of useful information for developing secure Node.js applications.
 ### ![nonfree](img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
 
 Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
+
+## Books and ebooks
+
+### ![nonfree](img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity)
+
+**Released**: July 19, 2017
+
+Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
 
 # PHP
 
