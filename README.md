@@ -333,6 +333,10 @@ An intentionally insecure Javascript Web Application.
 
 How to go on the offence before online attackers do.
 
+### [Webhacking.kr](http://webhacking.kr/)
+
+Collection of web app security challanges, mostly korean.  Signup is a challenge too.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
