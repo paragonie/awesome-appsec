@@ -28,6 +28,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Books](#books)
       * [Web Application Hacker's Handbook](#-web-application-hackers-handbook-2011) (2011) ![nonfree](img/nonfree.png)
       * [Cryptography Engineering](#-cryptography-engineering-2010) (2010) ![nonfree](img/nonfree.png)
+      * [Securing DevOps](#-securing-devops-2018) (2018) ![nonfree](img/nonfree.png)
       * [Gray Hat Python: Programming for Hackers and Reverse Engineers](#-gray-hat-python-programming-for-hackers-and-reverse-engineers-2009) (2009) ![nonfree](img/nonfree.png)
       * [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](#-the-art-of-software-security-assessment-identifying-and-preventing-software-vulnerabilities-2006) (2006) ![nonfree](img/nonfree.png)
       * [C Interfaces and Implementations: Techniques for Creating Reusable Software](#-c-interfaces-and-implementations-techniques-for-creating-reusable-software-1996) (1996) ![nonfree](img/nonfree.png)
@@ -43,6 +44,8 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
       * [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
       * [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](img/nonfree.png)
+      * [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
+      * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
@@ -58,6 +61,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [PentesterLab](#pentesterlab)
       * [Juice Shop](#juice-shop)
       * [Supercar Showdown](#supercar-showdown)
+      * [OWASP NodeGoat](#owasp-nodegoat)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
@@ -74,24 +78,30 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2016) (2016)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
   * [C Sharp](#c-sharp)
     * [Books and ebooks](#books-and-ebooks-3)
       * [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](img/nonfree.png)
+  * [Go](#go)
+    * [Articles](#articles-1)
+      * [Memory Security in Go - cryptolosophy.io](#memory-security-in-go-cryptolosophy-io-2017) (2017)
   * [Java](#java)
     * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
       * [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
   * [Node.js](#node-js)
-    * [Articles](#articles-1)
+    * [Articles](#articles-2)
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
+    * [Books and ebooks](#books-and-ebooks-5)
+      * [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](img/nonfree.png)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
+      * [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](img/nonfree.png)
   * [PHP](#php)
-    * [Articles](#articles-2)
+    * [Articles](#articles-3)
       * [It's All About Time](#its-all-about-time-2014) (2014)
       * [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
       * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
@@ -100,7 +110,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide-2014) (2014)
       * [You Wouldn't Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
       * [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
-    * [Books and ebooks](#books-and-ebooks-5)
+    * [Books and ebooks](#books-and-ebooks-6)
       * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
       * [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
     * [Useful libraries](#useful-libraries)
@@ -120,16 +130,17 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Mailing lists](#mailing-lists)
         * [Securing PHP Weekly](#securing-php-weekly)
   * [Perl](#perl)
-    * [Books and ebooks](#books-and-ebooks-6)
+    * [Books and ebooks](#books-and-ebooks-7)
       * [SEI CERT Perl Coding Standard](#sei-cert-perl-coding-standard-2011) (2011)
   * [Python](#python)
-    * [Books and ebooks](#books-and-ebooks-7)
+    * [Books and ebooks](#books-and-ebooks-8)
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
+      * [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](img/nonfree.png)
       * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
-    * [Books and ebooks](#books-and-ebooks-8)
+    * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
 
 
@@ -184,6 +195,12 @@ Great introduction to Web Application Security; though slightly dated.
 **Released**: March 15, 2010
 
 Develops a sense of professional paranoia while presenting crypto design techniques.
+
+### ![nonfree](img/nonfree.png) [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) (2018)
+
+**Released**: March 1, 2018
+
+Securing DevOps explores how the techniques of DevOps and Security should be applied together to make cloud services safer. This introductory book reviews state of the art practices used in securing web applications and their infrastructure, and teaches you techniques to integrate security directly into your product.
 
 ### ![nonfree](img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
 
@@ -275,6 +292,16 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 
 
 
+### [Holistic Info-Sec for Web Developers (Fascicle 0)](https://leanpub.com/holistic-infosec-for-web-developers) (2016)
+
+**Released**: September 17, 2016
+
+The first part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises.
+
+### [Holistic Info-Sec for Web Developers (Fascicle 1)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications)
+
+The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
+
 ## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
@@ -333,6 +360,10 @@ An intentionally insecure Javascript Web Application.
 
 How to go on the offence before online attackers do.
 
+### [OWASP NodeGoat](https://github.com/owasp/nodegoat)
+
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -387,9 +418,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2016)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
 
-**Released**: September 28, 2016
+**Released**: March 10, 2018
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -412,6 +443,16 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 **Released**: July 14, 2015
 
 An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
+
+# Go
+
+## Articles
+
+### [Memory Security in Go - cryptolosophy.io](https://cryptolosophy.io/memory-security-go/) (2017)
+
+**Released**: August 3, 2017
+
+A guide to managing sensitive data in memory.
 
 # Java
 
@@ -439,11 +480,23 @@ Secure Java programming guidelines straight from Oracle.
 
 Covers a lot of useful information for developing secure Node.js applications.
 
+## Books and ebooks
+
+### ![nonfree](img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity) (2017)
+
+**Released**: July 19, 2017
+
+Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
+
 ## Training
 
 ### ![nonfree](img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
 
 Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
+
+### ![nonfree](img/nonfree.png) [Security Training from BinaryMist](https://blog.binarymist.net/presentations-publications/)
+
+We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
 
 # PHP
 
@@ -582,6 +635,10 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 ### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+
+### ![nonfree](img/nonfree.png) [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.nostarch.com/blackhatpython)
+
+Black Hat Python by Justin Seitz from NoStarch Press is a great book for the offensive security minds
 
 ### ![nonfree](img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
