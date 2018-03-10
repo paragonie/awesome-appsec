@@ -110,6 +110,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide](#preventing-sql-injection-in-php-applications-the-easy-and-definitive-guide-2014) (2014)
       * [You Wouldn't Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
       * [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
+      * [The 2018 Guide to Building Secure PHP Software](#the-2018-guide-to-building-secure-php-software-2017) (2017)
     * [Books and ebooks](#books-and-ebooks-6)
       * [Securing PHP: Core Concepts](#-securing-php-core-concepts) ![nonfree](img/nonfree.png)
       * [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
@@ -551,6 +552,12 @@ If you're confused about cryptography terms, start here.
 **Released**: August 2, 2015
 
 Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library](https://github.com/defuse/php-encryption), or OpenSSL.
+
+### [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) (2017)
+
+**Released**: December 12, 2017
+
+This guide should serve as a complement to the e-book, [PHP: The Right Way](http://www.phptherightway.com), with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
 
 ## Books and ebooks
 
