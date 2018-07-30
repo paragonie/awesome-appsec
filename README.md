@@ -66,6 +66,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
         * [Scott Helme](#scott-helme)
+        * [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
       * [Tools](#tools)
@@ -378,6 +379,12 @@ The blog of NCC Group, formerly Matasano, iSEC Partners, and NGS Secure.
 #### [Scott Helme](https://scotthelme.co.uk)
 
 Learn about security and performance.
+
+#### [Cossack Labs blog](https://www.cossacklabs.com/blog-archive/) (2018)
+
+**Released**: July 30, 2018
+
+Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
 
 ### Wiki pages
 
