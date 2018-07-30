@@ -421,7 +421,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
 
-**Released**: March 10, 2018
+**Released**: July 30, 2018
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
