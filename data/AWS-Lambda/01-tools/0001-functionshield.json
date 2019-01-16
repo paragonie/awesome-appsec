@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "PureSec FunctionShield",
+    "remark": "FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.",
+    "url": "https://www.puresec.io/function-shield"
+}
