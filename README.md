@@ -97,6 +97,9 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
       * [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
+    * [Source code analysis](#source-code-analysis)
+      * [jeremylong/DependencyCheck](#jeremylongdependencycheck-2012) (2012)
+      * [find-sec-bugs/find-sec-bugs](#find-sec-bugsfind-sec-bugs-2012) (2012)
   * [Node.js](#node-js)
     * [Articles](#articles-2)
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
@@ -143,7 +146,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
       * [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](img/nonfree.png)
       * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
-    * [Source code analysis](#source-code-analysis)
+    * [Source code analysis](#source-code-analysis-1)
       * [PyCQA/bandit](#pycqabandit-2015) (2015)
       * [pyupio/safety](#pyupiosafety-2016) (2016)
     * [Websites](#websites-2)
@@ -151,12 +154,12 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
-    * [Source code analysis](#source-code-analysis-1)
+    * [Source code analysis](#source-code-analysis-2)
       * [rubocop-hq/rubocop](#rubocop-hqrubocop-2012) (2012)
       * [presidentbeef/brakeman](#presidentbeefbrakeman-2014) (2014)
       * [rubysec/bundler-audit](#rubysecbundler-audit-2013) (2013)
   * [Elixir](#elixir)
-    * [Source code analysis](#source-code-analysis-2)
+    * [Source code analysis](#source-code-analysis-3)
       * [rrrene/credo](#rrrenecredo-2015) (2015)
       * [nccgroup/sobelow](#nccgroupsobelow-2017) (2017)
 
@@ -504,6 +507,20 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 **Released**: April 2, 2014
 
 Secure Java programming guidelines straight from Oracle.
+
+## Source code analysis
+
+### [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) (2012)
+
+**Released**: October 23, 2012
+
+OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+
+### [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) (2012)
+
+**Released**: October 19, 2012
+
+The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
 
 # Node.js
 
