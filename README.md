@@ -149,7 +149,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
   * [Elixir](#elixir)
-    * [Sast](#sast)
+    * [Source code analysis](#source-code-analysis)
       * [rrrene/credo](#rrrenecredo-2015) (2015)
       * [nccgroup/sobelow](#nccgroupsobelow-2017) (2017)
 
@@ -698,7 +698,7 @@ A guide to secure Ruby development by the Fedora Security Team. Also available o
 
 # Elixir
 
-## Sast
+## Source code analysis
 
 ### [rrrene/credo](https://github.com/rrrene/credo) (2015)
 
