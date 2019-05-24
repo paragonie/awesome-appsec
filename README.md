@@ -83,7 +83,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2019) (2019)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2013) (2013)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
@@ -446,9 +446,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2019)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2013)
 
-**Released**: May 24, 2019
+**Released**: March 1, 2013
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
