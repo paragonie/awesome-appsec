@@ -1,0 +1,7 @@
+{
+    "date": "2014-02-10",
+    "free": true,
+    "name": "presidentbeef/brakeman",
+    "remark": "A static analysis security vulnerability scanner for Ruby on Rails applications.",
+    "url": "https://github.com/presidentbeef/brakeman"
+}

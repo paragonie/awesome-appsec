@@ -143,13 +143,19 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
       * [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](img/nonfree.png)
       * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
+    * [Source code analysis](#source-code-analysis)
+      * [PyCQA/bandit](#pycqabandit-2015) (2015)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
+    * [Source code analysis](#source-code-analysis-1)
+      * [rubocop-hq/rubocop](#rubocop-hqrubocop-2012) (2012)
+      * [presidentbeef/brakeman](#presidentbeefbrakeman-2014) (2014)
+      * [rubysec/bundler-audit](#rubysecbundler-audit-2013) (2013)
   * [Elixir](#elixir)
-    * [Source code analysis](#source-code-analysis)
+    * [Source code analysis](#source-code-analysis-2)
       * [rrrene/credo](#rrrenecredo-2015) (2015)
       * [nccgroup/sobelow](#nccgroupsobelow-2017) (2017)
 
@@ -678,6 +684,14 @@ Black Hat Python by Justin Seitz from NoStarch Press is a great book for the off
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
+## Source code analysis
+
+### [PyCQA/bandit](https://github.com/PyCQA/bandit) (2015)
+
+**Released**: February 17, 2015
+
+Bandit is a tool designed to find common security issues in Python code.
+
 ## Websites
 
 ### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
@@ -695,6 +709,26 @@ A wiki maintained by the OWASP Python Security project.
 **Released**: March 10, 2014
 
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+
+## Source code analysis
+
+### [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop) (2012)
+
+**Released**: May 3, 2012
+
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+
+### [presidentbeef/brakeman](https://github.com/presidentbeef/brakeman) (2014)
+
+**Released**: February 10, 2014
+
+A static analysis security vulnerability scanner for Ruby on Rails applications.
+
+### [rubysec/bundler-audit](https://github.com/rubysec/bundler-audit) (2013)
+
+**Released**: February 12, 2013
+
+Patch-level verification for Bundler.
 
 # Elixir
 
