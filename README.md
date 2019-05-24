@@ -62,6 +62,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Juice Shop](#juice-shop)
       * [Supercar Showdown](#supercar-showdown)
       * [OWASP NodeGoat](#owasp-nodegoat)
+      * [OWASP ServerlessGoat](#owasp-serverlessgoat)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
@@ -73,13 +74,16 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         * [Qualys SSL Labs](#qualys-ssl-labs)
         * [securityheaders.io](#securityheaders-io)
         * [report-uri.io](#report-uri-io)
+  * [AWS Lambda](#aws-lambda)
+    * [Tools](#tools-1)
+      * [PureSec FunctionShield](#puresec-functionshield)
   * [Android](#android)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2019) (2019)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
@@ -144,6 +148,10 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
+  * [Elixir](#elixir)
+    * [Sast](#sast)
+      * [rrrene/credo](#rrrenecredo-2015) (2015)
+      * [nccgroup/sobelow](#nccgroupsobelow-2017) (2017)
 
 
 # General
@@ -366,6 +374,10 @@ How to go on the offence before online attackers do.
 
 Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
+### [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat)
+
+OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -406,6 +418,14 @@ Quickly and easily assess the security of your HTTP response headers.
 
 A free CSP and HPKP reporting service.
 
+# AWS Lambda
+
+## Tools
+
+### [PureSec FunctionShield](https://www.puresec.io/function-shield)
+
+FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.
+
 # Android
 
 ## Books and ebooks
@@ -426,9 +446,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2019)
 
-**Released**: July 30, 2018
+**Released**: May 24, 2019
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -675,3 +695,19 @@ A wiki maintained by the OWASP Python Security project.
 **Released**: March 10, 2014
 
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+
+# Elixir
+
+## Sast
+
+### [rrrene/credo](https://github.com/rrrene/credo) (2015)
+
+**Released**: November 24, 2015
+
+Credo is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
+
+### [nccgroup/sobelow](https://github.com/nccgroup/sobelow) (2017)
+
+**Released**: May 12, 2017
+
+Security-focused static analysis for the Phoenix framework.
