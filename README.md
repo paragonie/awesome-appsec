@@ -145,6 +145,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
     * [Source code analysis](#source-code-analysis)
       * [PyCQA/bandit](#pycqabandit-2015) (2015)
+      * [pyupio/safety](#pyupiosafety-2016) (2016)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
@@ -691,6 +692,12 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 **Released**: February 17, 2015
 
 Bandit is a tool designed to find common security issues in Python code.
+
+### [pyupio/safety](https://github.com/pyupio/safety) (2016)
+
+**Released**: October 19, 2016
+
+Safety checks your installed dependencies for known security vulnerabilities.
 
 ## Websites
 
