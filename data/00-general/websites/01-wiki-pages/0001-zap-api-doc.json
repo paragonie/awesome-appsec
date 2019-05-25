@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "The ZAP API",
+    "remark": "ZAP provides a REST Application Programming Interface (API) which allows you to interact with ZAP programmatically.",
+    "url": "https://github.com/zaproxy/zaproxy/wiki/ApiDetails"
+}
