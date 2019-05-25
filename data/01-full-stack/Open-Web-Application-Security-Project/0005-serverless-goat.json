@@ -1,0 +1,6 @@
+{
+    "date": "2018-12-18",
+    "name": "OWASP Serverless Goat",
+    "remark": "OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP.",
+    "url": "https://www.owasp.org/index.php/OWASP_Serverless_Goat"
+}
