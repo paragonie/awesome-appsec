@@ -1,0 +1,7 @@
+{
+    "date": "2016-10-19",
+    "free": true,
+    "name": "pyupio/safety",
+    "remark": "Safety checks your installed dependencies for known security vulnerabilities.",
+    "url": "https://github.com/pyupio/safety"
+}

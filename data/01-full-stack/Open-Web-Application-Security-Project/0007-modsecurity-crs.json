@@ -1,0 +1,6 @@
+{
+    "date": "2012-09-19",
+    "name": "OWASP ModSecurity Core Rule Set (CRS)",
+    "remark": "The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls.",
+    "url": "https://github.com/SpiderLabs/owasp-modsecurity-crs"
+}

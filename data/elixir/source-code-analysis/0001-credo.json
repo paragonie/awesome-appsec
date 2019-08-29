@@ -1,0 +1,7 @@
+{
+    "date": "2015-11-24",
+    "free": true,
+    "name": "rrrene/credo",
+    "remark": "Credo is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.",
+    "url": "https://github.com/rrrene/credo"
+}

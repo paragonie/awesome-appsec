@@ -1,0 +1,7 @@
+{
+    "date": "2017-05-12",
+    "free": true,
+    "name": "nccgroup/sobelow",
+    "remark": "Security-focused static analysis for the Phoenix framework.",
+    "url": "https://github.com/nccgroup/sobelow"
+}

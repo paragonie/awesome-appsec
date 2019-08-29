@@ -1,0 +1,7 @@
+{
+    "date": "2015-02-17",
+    "free": true,
+    "name": "PyCQA/bandit",
+    "remark": "Bandit is a tool designed to find common security issues in Python code.",
+    "url": "https://github.com/PyCQA/bandit"
+}

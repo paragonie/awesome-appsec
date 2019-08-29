@@ -1,0 +1,7 @@
+{
+    "date":"2018-11-16",
+    "free": true,
+    "name": "zaproxy/zap-api-nodejs",
+    "remark": "The NodeJS implementation to access the OWASP ZAP API. For more information about OWASP ZAP consult the (main) OWASP ZAP project.",
+    "url": "https://github.com/zaproxy/zap-api-nodejs"
+}

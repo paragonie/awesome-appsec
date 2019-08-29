@@ -1,0 +1,7 @@
+{
+    "date": "2013-02-12",
+    "free": true,
+    "name": "rubysec/bundler-audit",
+    "remark": "Patch-level verification for Bundler.",
+    "url": "https://github.com/rubysec/bundler-audit"
+}
