@@ -1,0 +1,7 @@
+{
+    "date": "2019-06-01",
+    "free": false,
+    "name": "API Security in Action",
+    "remark": "API Security in Action gives you the skills to build strong, safe APIs you can confidently expose to the world. It covers how to construct secure and scalable REST APIS, deliver machine-to-machine interaction in a microservices architecture, and provide protection in resource-constrained IoT environments.",
+    "url": "https://www.manning.com/books/api-security-in-action"
+}
