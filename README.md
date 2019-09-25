@@ -49,6 +49,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
+      * [Portswigger's Web Security Academy](#portswigger-web-security-academy)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
