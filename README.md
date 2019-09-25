@@ -317,6 +317,9 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
+### [Portswigger's Web Security Academy](https://portswigger.net/web-security)
+The Web Security Academy contains free training on cybersecurity topics, including security vulnerabilities, techniques for finding and exploiting security flaws, and defensive measures for avoiding them.The Web Security Academy contains high-quality learning materials, interactive vulnerability labs, and video tutorials. You can learn at your own pace, wherever and whenever suits you. Best of all, everything is free! The team behind the Web Security Academy includes Dafydd Stuttard, author of The Web Application Hacker's Handbook.
+
 ## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
