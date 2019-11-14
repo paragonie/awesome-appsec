@@ -64,6 +64,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [OWASP NodeGoat](#owasp-nodegoat)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
+        * [Secjuice](#secjuice)
         * [NCC Group - Blog](#ncc-group-blog)
         * [Scott Helme](#scott-helme)
         * [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
@@ -371,6 +372,10 @@ Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials
 #### [Crypto Fails](http://cryptofails.com)
 
 Showcasing bad cryptography
+
+#### [secjuice](https://www.secjuice.com/)
+
+Secjuice is the only non-profit, independent and volunteer led publication in the information security space.
 
 #### [NCC Group - Blog](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/)
 
