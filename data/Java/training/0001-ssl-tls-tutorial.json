@@ -1,0 +1,7 @@
+{
+    "date": "2019-11-17",
+    "free": true,
+    "name": "Step by step tutorial for encrypting client and server with SSL/TLS",
+    "remark": "Step by step tutorial for encrypting client and server with SSL/TLS. Includes a server, based on Spring, and a lot of different supported http clients. Goal is to understand and learn how to configure clients and server, basic understanding of certificates, keystores, handshake procedure, ssl and keytool commands",
+    "url": "https://github.com/Hakky54/mutual-tls-ssl"
+}
