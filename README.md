@@ -73,6 +73,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         * [Qualys SSL Labs](#qualys-ssl-labs)
         * [securityheaders.io](#securityheaders-io)
         * [report-uri.io](#report-uri-io)
+        * [Insider](#Insider-CLI)
   * [Android](#android)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
@@ -397,6 +398,10 @@ The top ten most common and critical security vulnerabilities found in web appli
 #### [Qualys SSL Labs](https://www.ssllabs.com/)
 
 The infamous suite of SSL and TLS tools.
+
+#### [Insider CLI](https://github.com/insidersec/insider)
+
+A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
 
 #### [securityheaders.io](https://securityheaders.io/)
 
