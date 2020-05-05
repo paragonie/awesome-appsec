@@ -1,0 +1,7 @@
+{
+    "date": "2020-05-05",
+    "free": true,
+    "name": "Clojure OWASP",
+    "remark": "Repository with Clojure examples of OWASP top 10 vulnerabilities.",
+    "url": "https://github.com/nubank/clj-owasp"
+}
