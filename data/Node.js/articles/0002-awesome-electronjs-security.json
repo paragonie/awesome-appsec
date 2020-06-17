@@ -1,0 +1,7 @@
+{
+    "date": "2020-06-17",
+    "free": true,
+    "name": "Awesome Electron.js hacking & pentesting resources",
+    "remark": "A curated list of resources to secure Electron.js-based applications.",
+    "url": "https://github.com/doyensec/awesome-electronjs-hacking"
+}
