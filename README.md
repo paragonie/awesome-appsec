@@ -406,6 +406,14 @@ Quickly and easily assess the security of your HTTP response headers.
 
 A free CSP and HPKP reporting service.
 
+#### [CSP Scanner](https://cspscanner.com/)
+
+Understand how to easily improve your Content-Security-Policy (CSP). Analyze protection coverage from XSS, Clickjacking, Formjacking & more.
+
+#### [RapidSec.com](https://rapidsec.com/)
+
+A free CSP generator and log collector.
+
 # Android
 
 ## Books and ebooks
