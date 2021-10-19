@@ -394,6 +394,14 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 ### Tools
 
+#### [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
+
+Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
+
+#### [Deepfence ThreatStryker](https://deepfence.io)
+
+Full life cycle Cloud Native Security Observability Platform for kubernetes, virtual machines and serverless.
+
 #### [Qualys SSL Labs](https://www.ssllabs.com/)
 
 The infamous suite of SSL and TLS tools.
