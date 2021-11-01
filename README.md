@@ -48,6 +48,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
       * [Spring Boot in Practice](#spring-boot-in-practice)(2021)
       * [OpenID Connect in Action](https://www.manning.com/books/openid-connect-in-action)(2021)
+      * [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography)(2021)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
