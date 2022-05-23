@@ -11,7 +11,7 @@ class Util
      * 
      * @param string $base
      * @param int $depth
-     * @return type
+     * @return array
      */
     public static function compile($base, $depth = 1)
     {
@@ -120,7 +120,7 @@ class Util
      * @param string $string
      * @return string
      */
-    public function makeSlug($string)
+    public static function makeSlug($string)
     {
         // So we don't repeat.
         static $slugs = [];
@@ -169,7 +169,7 @@ class Util
      * @param string $string
      * @return string
      */
-    public function slugEscape($string)
+    public static function slugEscape($string)
     {
         return \preg_replace(
             [
