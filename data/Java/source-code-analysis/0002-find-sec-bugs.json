@@ -1,0 +1,7 @@
+{
+    "date": "2012-10-19",
+    "free": true,
+    "name": "find-sec-bugs/find-sec-bugs",
+    "remark": "The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)",
+    "url": "https://github.com/find-sec-bugs/find-sec-bugs"
+}

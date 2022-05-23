@@ -1,0 +1,7 @@
+{
+    "date":"2015-05-29",
+    "free": true,
+    "name": "zaproxy/zap-api-python",
+    "remark": "The Python implementation to access the OWASP ZAP API. For more information about OWASP ZAP consult the (main) OWASP ZAP project.",
+    "url": "https://github.com/zaproxy/zap-api-python"
+}

@@ -1,0 +1,6 @@
+{
+    "date": "2008-01-12",
+    "name": "OWASP WebGoat Project",
+    "remark": "WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. You can install and practice with WebGoat. There are other 'goats' such as WebGoat for .Net. In each lesson, users must demonstrate their understanding of a security issue by exploiting a real vulnerability in the WebGoat applications.",
+    "url": "https://github.com/WebGoat/WebGoat"
+}

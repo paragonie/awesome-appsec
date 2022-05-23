@@ -59,27 +59,39 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [MicroCorruption](#microcorruption)
       * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
       * [PentesterLab](#pentesterlab)
-      * [Juice Shop](#juice-shop)
       * [Supercar Showdown](#supercar-showdown)
-      * [OWASP NodeGoat](#owasp-nodegoat)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
         * [Scott Helme](#scott-helme)
         * [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
       * [Wiki pages](#wiki-pages)
-        * [OWASP Top Ten Project](#owasp-top-ten-project)
+        * [The ZAP API](#the-zap-api)
       * [Tools](#tools)
         * [Qualys SSL Labs](#qualys-ssl-labs)
         * [securityheaders.io](#securityheaders-io)
         * [report-uri.io](#report-uri-io)
+  * [Full stack](#full-stack)
+    * [Open Web Application Security Project](#open-web-application-security-project)
+      * [OWASP Top Ten Project](#owasp-top-ten-project)
+      * [OWASP NodeGoat Project](#owasp-nodegoat-project-2014) (2014)
+      * [OWASP Juice Shop Tool Project](#owasp-juice-shop-tool-project-2014) (2014)
+      * [OWASP WebGoat Project](#owasp-webgoat-project-2008) (2008)
+      * [OWASP Serverless Goat](#owasp-serverless-goat-2018) (2018)
+      * [ModSecurity (open source WAF)](#modsecurity-open-source-waf-2007) (2007)
+      * [OWASP ModSecurity Core Rule Set (CRS)](#owasp-modsecurity-core-rule-set-crs-2012) (2012)
+      * [OWASP Cheat Sheet Series](#owasp-cheat-sheet-series-2014) (2014)
+      * [OWASP Zed Attack Proxy Project](#owasp-zed-attack-proxy-project-2010) (2010)
+  * [AWS Lambda](#aws-lambda)
+    * [Tools](#tools-1)
+      * [PureSec FunctionShield](#puresec-functionshield)
   * [Android](#android)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2013) (2013)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
@@ -93,11 +105,18 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
       * [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
+    * [Source code analysis](#source-code-analysis)
+      * [jeremylong/DependencyCheck](#jeremylongdependencycheck-2012) (2012)
+      * [find-sec-bugs/find-sec-bugs](#find-sec-bugsfind-sec-bugs-2012) (2012)
+    * [Tools](#tools-2)
+      * [zaproxy/zap-api-java](#zaproxyzap-api-java-2016) (2016)
   * [Node.js](#node-js)
     * [Articles](#articles-2)
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
     * [Books and ebooks](#books-and-ebooks-5)
       * [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](img/nonfree.png)
+    * [Tools](#tools-3)
+      * [zaproxy/zap-api-nodejs](#zaproxyzap-api-nodejs-2018) (2018)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
       * [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](img/nonfree.png)
@@ -139,11 +158,24 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
       * [Black Hat Python: Python Programming for Hackers and Pentesters](#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](img/nonfree.png)
       * [Violent Python](#-violent-python) ![nonfree](img/nonfree.png)
+    * [Source code analysis](#source-code-analysis-1)
+      * [PyCQA/bandit](#pycqabandit-2015) (2015)
+      * [pyupio/safety](#pyupiosafety-2016) (2016)
+    * [Tools](#tools-4)
+      * [zaproxy/zap-api-python](#zaproxyzap-api-python-2015) (2015)
     * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
   * [Ruby](#ruby)
     * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
+    * [Source code analysis](#source-code-analysis-2)
+      * [rubocop-hq/rubocop](#rubocop-hqrubocop-2012) (2012)
+      * [presidentbeef/brakeman](#presidentbeefbrakeman-2014) (2014)
+      * [rubysec/bundler-audit](#rubysecbundler-audit-2013) (2013)
+  * [Elixir](#elixir)
+    * [Source code analysis](#source-code-analysis-3)
+      * [rrrene/credo](#rrrenecredo-2015) (2015)
+      * [nccgroup/sobelow](#nccgroupsobelow-2017) (2017)
 
 
 # General
@@ -354,17 +386,9 @@ A series of programming exercises for teaching oneself cryptography by [Matasano
 
 PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercises/) and a [bootcamp](https://pentesterlab.com/bootcamp/) to get started.
 
-### [Juice Shop](https://bkimminich.github.io/juice-shop)
-
-An intentionally insecure Javascript Web Application.
-
 ### [Supercar Showdown](http://hackyourselffirst.troyhunt.com/)
 
 How to go on the offence before online attackers do.
-
-### [OWASP NodeGoat](https://github.com/owasp/nodegoat)
-
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
 ### Blogs
 
@@ -388,9 +412,9 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 ### Wiki pages
 
-#### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+#### [The ZAP API](https://github.com/zaproxy/zaproxy/wiki/ApiDetails)
 
-The top ten most common and critical security vulnerabilities found in web applications.
+ZAP provides a REST Application Programming Interface (API) which allows you to interact with ZAP programmatically.
 
 ### Tools
 
@@ -405,6 +429,70 @@ Quickly and easily assess the security of your HTTP response headers.
 #### [report-uri.io](https://report-uri.io)
 
 A free CSP and HPKP reporting service.
+
+# Full stack
+
+## Open Web Application Security Project
+
+### [OWASP Top Ten Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+
+The top ten most common and critical security vulnerabilities found in web applications.
+
+### [OWASP NodeGoat Project](https://github.com/OWASP/NodeGoat) (2014)
+
+**Released**: May 6, 2014
+
+OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+
+### [OWASP Juice Shop Tool Project](https://github.com/bkimminich/juice-shop) (2014)
+
+**Released**: October 4, 2014
+
+OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!
+
+### [OWASP WebGoat Project](https://github.com/WebGoat/WebGoat) (2008)
+
+**Released**: January 12, 2008
+
+WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. You can install and practice with WebGoat. There are other 'goats' such as WebGoat for .Net. In each lesson, users must demonstrate their understanding of a security issue by exploiting a real vulnerability in the WebGoat applications.
+
+### [OWASP Serverless Goat](https://www.owasp.org/index.php/OWASP_Serverless_Goat) (2018)
+
+**Released**: December 18, 2018
+
+OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP.
+
+### [ModSecurity (open source WAF)](https://github.com/SpiderLabs/ModSecurity) (2007)
+
+**Released**: March 6, 2007
+
+ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys.
+
+### [OWASP ModSecurity Core Rule Set (CRS)](https://github.com/SpiderLabs/owasp-modsecurity-crs) (2012)
+
+**Released**: September 19, 2012
+
+The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls.
+
+### [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) (2014)
+
+**Released**: March 7, 2014
+
+The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. We hope that the OWASP Cheat Sheet Series provides you with excellent security guidance in an easy to read format.
+
+### [OWASP Zed Attack Proxy Project](https://github.com/zaproxy/zaproxy) (2010)
+
+**Released**: October 6, 2010
+
+The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
+
+# AWS Lambda
+
+## Tools
+
+### [PureSec FunctionShield](https://www.puresec.io/function-shield)
+
+FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.
 
 # Android
 
@@ -426,9 +514,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2013)
 
-**Released**: July 30, 2018
+**Released**: March 7, 2013
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -478,6 +566,28 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 
 Secure Java programming guidelines straight from Oracle.
 
+## Source code analysis
+
+### [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) (2012)
+
+**Released**: October 23, 2012
+
+OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+
+### [find-sec-bugs/find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) (2012)
+
+**Released**: October 19, 2012
+
+The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)
+
+## Tools
+
+### [zaproxy/zap-api-java](https://github.com/zaproxy/zap-api-java) (2016)
+
+**Released**: June 3, 2016
+
+The Java implementation to access the OWASP ZAP API. For more information about OWASP ZAP consult the (main) OWASP ZAP project.
+
 # Node.js
 
 ## Articles
@@ -495,6 +605,14 @@ Covers a lot of useful information for developing secure Node.js applications.
 **Released**: July 19, 2017
 
 Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
+
+## Tools
+
+### [zaproxy/zap-api-nodejs](https://github.com/zaproxy/zap-api-nodejs) (2018)
+
+**Released**: November 16, 2018
+
+The NodeJS implementation to access the OWASP ZAP API. For more information about OWASP ZAP consult the (main) OWASP ZAP project.
 
 ## Training
 
@@ -658,6 +776,28 @@ Black Hat Python by Justin Seitz from NoStarch Press is a great book for the off
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
+## Source code analysis
+
+### [PyCQA/bandit](https://github.com/PyCQA/bandit) (2015)
+
+**Released**: February 17, 2015
+
+Bandit is a tool designed to find common security issues in Python code.
+
+### [pyupio/safety](https://github.com/pyupio/safety) (2016)
+
+**Released**: October 19, 2016
+
+Safety checks your installed dependencies for known security vulnerabilities.
+
+## Tools
+
+### [zaproxy/zap-api-python](https://github.com/zaproxy/zap-api-python) (2015)
+
+**Released**: May 29, 2015
+
+The Python implementation to access the OWASP ZAP API. For more information about OWASP ZAP consult the (main) OWASP ZAP project.
+
 ## Websites
 
 ### [OWASP Python Security Wiki](https://github.com/ebranca/owasp-pysec/wiki) (2014)
@@ -675,3 +815,39 @@ A wiki maintained by the OWASP Python Security project.
 **Released**: March 10, 2014
 
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github](https://github.com/jrusnack/secure-ruby-development-guide).
+
+## Source code analysis
+
+### [rubocop-hq/rubocop](https://github.com/rubocop-hq/rubocop) (2012)
+
+**Released**: May 3, 2012
+
+A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+
+### [presidentbeef/brakeman](https://github.com/presidentbeef/brakeman) (2014)
+
+**Released**: February 10, 2014
+
+A static analysis security vulnerability scanner for Ruby on Rails applications.
+
+### [rubysec/bundler-audit](https://github.com/rubysec/bundler-audit) (2013)
+
+**Released**: February 12, 2013
+
+Patch-level verification for Bundler.
+
+# Elixir
+
+## Source code analysis
+
+### [rrrene/credo](https://github.com/rrrene/credo) (2015)
+
+**Released**: November 24, 2015
+
+Credo is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
+
+### [nccgroup/sobelow](https://github.com/nccgroup/sobelow) (2017)
+
+**Released**: May 12, 2017
+
+Security-focused static analysis for the Phoenix framework.

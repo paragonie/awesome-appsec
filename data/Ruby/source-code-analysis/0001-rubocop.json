@@ -1,0 +1,7 @@
+{
+    "date": "2012-05-03",
+    "free": true,
+    "name": "rubocop-hq/rubocop",
+    "remark": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "url": "https://github.com/rubocop-hq/rubocop"
+}

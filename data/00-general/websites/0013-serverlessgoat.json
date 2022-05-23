@@ -1,6 +1,0 @@
-{
-    "free": true,
-    "name": "OWASP ServerlessGoat",
-    "remark": "OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.",
-    "url": "https://www.owasp.org/index.php/OWASP_Serverless_Goat"
-}
