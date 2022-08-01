@@ -59,7 +59,6 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [MicroCorruption](#microcorruption)
       * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
       * [PentesterLab](#pentesterlab)
-      * [Juice Shop](#juice-shop)
       * [Supercar Showdown](#supercar-showdown)
       * [OWASP NodeGoat](#owasp-nodegoat)
       * [Securing The Stack](#securing-the-stack)
@@ -363,10 +362,6 @@ A series of programming exercises for teaching oneself cryptography by [Matasano
 ### [PentesterLab](https://pentesterlab.com)
 
 PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercises/) and a [bootcamp](https://pentesterlab.com/bootcamp/) to get started.
-
-### [Juice Shop](https://bkimminich.github.io/juice-shop)
-
-An intentionally insecure Javascript Web Application.
 
 ### [Supercar Showdown](http://hackyourselffirst.troyhunt.com/)
 
