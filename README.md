@@ -47,7 +47,6 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
       * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
     * [Classes](#classes)
-      * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
@@ -315,12 +314,6 @@ The first part of a three part book series providing broad and in-depth coverage
 The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
 
 ## Classes
-
-### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
-
-A vulnerability research and exploit development class by Owen Redwood of Florida State University. 
-
-**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
 ### [Hack Night](https://github.com/isislab/Hack-Night)
 
