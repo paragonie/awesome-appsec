@@ -64,6 +64,8 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [OWASP NodeGoat](#owasp-nodegoat)
       * [OWASP WebGoat](#owasp-webgoat)
       * [OWASP WrongSecrets](#owasp-wrongsecrets)
+      * [Securing The Stack](#securing-the-stack)
+      * [OWASP ServerlessGoat](#owasp-serverlessgoat)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
@@ -75,22 +77,29 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         * [Qualys SSL Labs](#qualys-ssl-labs)
         * [securityheaders.io](#securityheaders-io)
         * [report-uri.io](#report-uri-io)
+        * [clickjacker.io](#clickjacker-io)
+  * [AWS Lambda](#aws-lambda)
+    * [Tools](#tools-1)
+      * [PureSec FunctionShield](#puresec-functionshield)
   * [Android](#android)
     * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2022) (2022)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
   * [C Sharp](#c-sharp)
     * [Books and ebooks](#books-and-ebooks-3)
       * [Security Driven .NET](#-security-driven-net-2015) (2015) ![nonfree](img/nonfree.png)
+  * [Clojure](#clojure)
+    * [Repositories](#repositories)
+      * [Clojure OWASP](#clojure-owasp-2020) (2020)
   * [Go](#go)
     * [Articles](#articles-1)
-      * [Memory Security in Go - cryptolosophy.io](#memory-security-in-go-cryptolosophy-io-2017) (2017)
+      * [Memory Security in Go - spacetime.dev](#memory-security-in-go-spacetime-dev-2017) (2017)
   * [Java](#java)
     * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
@@ -98,6 +107,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [Node.js](#node-js)
     * [Articles](#articles-2)
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
+      * [Awesome Electron.js hacking & pentesting resources](#awesome-electron-js-hacking-pentesting-resources-2020) (2020)
     * [Books and ebooks](#books-and-ebooks-5)
       * [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](img/nonfree.png)
     * [Training](#training)
@@ -368,7 +378,6 @@ How to go on the offence before online attackers do.
 
 Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
-
 ### [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
 
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. WebGoat is accompanied by an attacker enviornment called [WebWolf](https://github.com/WebGoat/WebGoat/tree/develop/webwolf). Webgoat and WebWolf are easily started from their [Docker conntainer](https://github.com/WebGoat/WebGoat#1-run-using-docker).
@@ -377,6 +386,14 @@ WebGoat is a deliberately insecure web application maintained by OWASP designed 
 ### [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets)
 
 An purposoly vulnerable application to teach about secrets management. It is directly accessible at [Heroku](https://wrongsecrets.herokuapp.com/). It can run in a [Docker](https://github.com/commjoen/wrongsecrets#basic-docker-exercises) container, or leverage [Kubernetes](https://github.com/commjoen/wrongsecrets#basic-k8s-exercise) as well as certain [cloud environments](https://github.com/commjoen/wrongsecrets#cloud-challenges). 
+
+### [Securing The Stack](https://securingthestack.com)
+
+Bi-Weekly Appsec Tutorials
+
+### [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat)
+
+OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
 
 ### Blogs
 
@@ -418,6 +435,18 @@ Quickly and easily assess the security of your HTTP response headers.
 
 A free CSP and HPKP reporting service.
 
+#### [clickjacker.io](https://clickjacker.io)
+
+Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share link. You can test HTTPS, HTTP, intranet & internal sites.
+
+# AWS Lambda
+
+## Tools
+
+### [PureSec FunctionShield](https://www.puresec.io/function-shield)
+
+FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.
+
 # Android
 
 ## Books and ebooks
@@ -438,9 +467,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2022)
 
-**Released**: July 30, 2018
+**Released**: May 23, 2022
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -464,11 +493,21 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 
 An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.
 
+# Clojure
+
+## Repositories
+
+### [Clojure OWASP](https://github.com/nubank/clj-owasp) (2020)
+
+**Released**: May 5, 2020
+
+Repository with Clojure examples of OWASP top 10 vulnerabilities.
+
 # Go
 
 ## Articles
 
-### [Memory Security in Go - cryptolosophy.io](https://cryptolosophy.io/memory-security-go/) (2017)
+### [Memory Security in Go - spacetime.dev](https://spacetime.dev/memory-security-go) (2017)
 
 **Released**: August 3, 2017
 
@@ -499,6 +538,12 @@ Secure Java programming guidelines straight from Oracle.
 **Released**: October 13, 2015
 
 Covers a lot of useful information for developing secure Node.js applications.
+
+### [Awesome Electron.js hacking & pentesting resources](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
+
+**Released**: June 17, 2020
+
+A curated list of resources to secure Electron.js-based applications.
 
 ## Books and ebooks
 
