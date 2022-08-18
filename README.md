@@ -50,6 +50,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [OpenID Connect in Action](https://www.manning.com/books/openid-connect-in-action)(2021)
       * [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography)(2021)
       * [Application Security Program Handbook](https://www.manning.com/books/application-security-program-handbook)(2022)
+      * [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)(2022)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
