@@ -309,6 +309,12 @@ The first part of a three part book series providing broad and in-depth coverage
 
 The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
 
+### ![nonfree](img/nonfree.png) [Making Sense of Cybersecurity](https://www.manning.com/books/making-sense-of-cybersecurity) (2022)
+
+**Released**: October 17, 2022
+
+A jargon-busting guide to the key concepts, terminology, and technologies of cybersecurity.
+
 ## Classes
 
 ### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
