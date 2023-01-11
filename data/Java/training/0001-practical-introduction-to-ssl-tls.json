@@ -1,0 +1,7 @@
+{
+    "name": "Practical introduction to SSL/TLS",
+    "date": "2018-11-11",
+    "free": true,
+    "remark": "Helps the person to learn about certificates, keystores, ssl commands and basic web security based on certificates.",
+    "url": "https://github.com/Hakky54/mutual-tls-ssl"
+}
