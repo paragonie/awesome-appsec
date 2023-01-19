@@ -51,6 +51,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography)(2021)
       * [Application Security Program Handbook](https://www.manning.com/books/application-security-program-handbook)(2022)
       * [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)(2022)
+      * [Spring Security in Action, Second Edition](https://www.manning.com/books/spring-security-in-action-second-edition)(2023)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
