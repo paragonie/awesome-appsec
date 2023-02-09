@@ -1,0 +1,5 @@
+{
+    "name": "OWASP WebGoat",
+    "remark": "WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. WebGoat is accompanied by an attacker enviornment called [WebWolf](https://github.com/WebGoat/WebGoat/tree/develop/webwolf). Webgoat and WebWolf are easily started from their [Docker conntainer](https://github.com/WebGoat/WebGoat#1-run-using-docker).",
+    "url": "https://github.com/WebGoat/WebGoat"
+}

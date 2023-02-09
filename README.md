@@ -62,6 +62,8 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Juice Shop](#juice-shop)
       * [Supercar Showdown](#supercar-showdown)
       * [OWASP NodeGoat](#owasp-nodegoat)
+      * [OWASP WebGoat](#owasp-webgoat)
+      * [OWASP WrongSecrets](#owasp-wrongsecrets)
       * [Securing The Stack](#securing-the-stack)
       * [OWASP ServerlessGoat](#owasp-serverlessgoat)
       * [Blogs](#blogs)
@@ -375,6 +377,15 @@ How to go on the offence before online attackers do.
 ### [OWASP NodeGoat](https://github.com/owasp/nodegoat)
 
 Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+
+### [OWASP WebGoat](https://github.com/WebGoat/WebGoat)
+
+WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. WebGoat is accompanied by an attacker enviornment called [WebWolf](https://github.com/WebGoat/WebGoat/tree/develop/webwolf). Webgoat and WebWolf are easily started from their [Docker conntainer](https://github.com/WebGoat/WebGoat#1-run-using-docker).
+
+
+### [OWASP WrongSecrets](https://github.com/commjoen/wrongsecrets)
+
+An purposoly vulnerable application to teach about secrets management. It is directly accessible at [Heroku](https://wrongsecrets.herokuapp.com/). It can run in a [Docker](https://github.com/commjoen/wrongsecrets#basic-docker-exercises) container, or leverage [Kubernetes](https://github.com/commjoen/wrongsecrets#basic-k8s-exercise) as well as certain [cloud environments](https://github.com/commjoen/wrongsecrets#cloud-challenges). 
 
 ### [Securing The Stack](https://securingthestack.com)
 
