@@ -108,6 +108,9 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Awesome Electron.js hacking & pentesting resources](#awesome-electron-js-hacking-pentesting-resources-2020) (2020)
     * [Books and ebooks](#books-and-ebooks-5)
       * [Essential Node.js Security](#-essential-node-js-security-2017) (2017) ![nonfree](img/nonfree.png)
+      * [Node.js Secure Coding: Mitigate and Weaponize Code Injection Vulnerabilities](#-node-js-secure-coding-mitigate-and-weaponize-code-injection-vulnerabilities) (2024) ![nonfree](img/nonfree.png)
+      * [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](#-node-js-secure-coding-defending-against-command-injection-vulnerabilities) (2023) ![nonfree](img/nonfree.png)
+      * [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](#-node-js-secure-coding-prevention-and-exploitatio-of-path-traversal-vulnerabilities) (2023) ![nonfree](img/nonfree.png)
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
       * [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](img/nonfree.png)
@@ -536,11 +539,29 @@ A curated list of resources to secure Electron.js-based applications.
 
 ## Books and ebooks
 
-### ![nonfree](img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity) (2017)
+### ![nonfree](img/nonfree.png) [Essential Node.js Security](https://www.nodejs-security.com/book/essential-nodejs-security) (2017)
 
 **Released**: July 19, 2017
 
 Hands-on and abundant with source code for a practical guide to Securing Node.js web applications.
+
+### ![nonfree](img/nonfree.png) [Node.js Secure Coding: Mitigate and Weaponize Code Injection Vulnerabilities](https://www.nodejs-security.com/book/code-injection) (2024) 
+
+**Released**: May 1, 2024
+
+Master the Art of Code Injection in JavaScript by learning: Learn AppSec jargon: RCE, ACE, Arbitrary Code Injection, CVE, CWE, Exfiltration, Exploitation, Attack Vectors and more, How attacks exploit JavaScript applications through insecure Code Injection sinks and sources, Why, how and when eval() and new Function() are a breeding ground for Code Injection attacks, How to exploit require and import as security sinks and gain code execution at runtime in JavaScript SSR and Node.js, How to avoid weak code injection patterns, How JavaScript serialization are often exploited, Demystifying JavaScript sandboxing with Node.js vm module and other vulnerable APIs and how attackers bypass them, Burst the bubble of false sense of security in npm dependencies that promise an isolated sandbox environment for JavaScript, Analyze real-world Code Injection vulnerabilities found in npm packages and how to fix them, Gain security expertise and adopt secure coding best practices in building JavaScript and Node.js applications.
+
+### ![nonfree](img/nonfree.png) [Node.js Secure Coding: Defending Against Command Injection Vulnerabilities](https://www.nodejs-security.com/book/path-traversal) (2023)
+
+**Released**: September, 2013
+
+This book takes an adventure-based approach to application security learning, where you will be playing a detective who unravels the mysteries of common security vulnerabilities. Through these exercises, you will learn about secure coding practices and how to avoid security pitfalls that software developers and open-source maintainers encounter. Senior software engineers often recite how one of the most critical skills you should have as an engineer is the ability to read code. The more you read, the easier it becomes for you to understand code and the more context you gain. This book focuses on that - reading vulnerable code so we can learn from it. This activity creates patterns that our brain learns to identify, and that later quickly turn into red flags that we detect and apply in our day-to-day programming and code review routines. Designed for JavaScript software developers building Node.js applications and security professionals interested in path traversal security vulnerabilities, this book provides a comprehensive understanding of the topic. It also demonstrates its impact and concerns on web application security. Through insecure coding practices found in vulnerable open-source npm packages, this book examines the security aspects affecting JavaScript and Node.js applications.
+
+### ![nonfree](img/nonfree.png) [Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities](https://www.nodejs-security.com/book/command-injection) (2023)
+
+**Released**: July, 2023
+
+Master Node.js security through hands-on learning and best practices. Learn secure coding conventions in Node.js by executing command injection attacks on real-world npm packages and analyzing vulnerable code. The book features 33 self-assessment yes-no, fill-the-blank, and multiple answer questions to help you evaluate and test your knowledge of Node.js secure coding. You'll analyze the code of 6 vulnerable npm packages found vulnerable via CVE reports to learn best practices on command injection vulnerabilities. With 6 additional references to vulnerable npm packages, you'll strengthen your skills in secure coding.
 
 ## Training
 
