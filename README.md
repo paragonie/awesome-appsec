@@ -49,6 +49,13 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
+    * [Courses](#courses)
+      * [Windows Thick Client Penetration Testing](#Windows-Thick-Client-Penetration-Testing)
+      * [Mobile Application Penetration Testing](#Mobile-Application-Penetration-Testing)
+      * [Mastering Android Penetration Testing (MAPT)](#Mastering-Android-Penetration-Testing-(MAPT))
+      * [Practical Web Hacking﻿](#Practical-Web-Hacking)
+      * [Certified AppSec Pentester (CAPen)](#Certified0-AppSec-Pentester-(CAPen))
+      * [Web Applications 101](#Web-Applications-101)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -64,11 +71,13 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [OWASP NodeGoat](#owasp-nodegoat)
       * [Securing The Stack](#securing-the-stack)
       * [OWASP ServerlessGoat](#owasp-serverlessgoat)
+      * [DarkRelay](#darkrelay)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
         * [Scott Helme](#scott-helme)
         * [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
+        * [DarkRelay](#[DarkRelay-Blog)
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
       * [Tools](#tools)
@@ -326,6 +335,32 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
+## Courses
+
+### ![nonfree](img/nonfree.png) [Windows Thick Client Penetration Testing](https://www.darkrelay.com/challenge-page/thick-client-penetration-testing?programId=4815786f-f9ab-40b0-9a18-35197e4d3843)
+
+Enroll in our comprehensive Thick Client Penetration Testing (TPT) course to understand the methodologies, tools, and techniques required for assessing the security of Windows thick client applications.
+
+### ![nonfree](img/nonfree.png) [Mobile Application Penetration Testing](https://academy.tcm-sec.com/p/mobile-application-penetration-testing)
+
+This course focuses on Android and iOS Mobile Application Penetration testing. The course will demonstrate common techniques to extract sensitive data from Android and iOS Application such as API Keys, stored secrets, and firebase databases, and provide a solid foundation for continuing a career as a Mobile Application Penetration Tester.
+
+### ![nonfree](img/nonfree.png) [Mastering Android Penetration Testing (MAPT)](https://www.darkrelay.com/challenge-page/android-application-penetration-testing?programId=0a27eec7-197a-4efe-8032-955980e7a85c)
+
+Dive deep into Android security through this expansive training program to equip you with critical skills for defending Android applications from sophisticated cyber threats.
+
+### ![nonfree](img/nonfree.png) [Practical Web Hacking﻿](https://academy.tcm-sec.com/p/practical-web-hacking)
+
+Practical Bug Bounty course and will take you deeper into the world of finding and exploiting vulnerabilities in web applications. 
+
+### ![nonfree](img/nonfree.png) [Certified AppSec Pentester (CAPen)](https://secops.group/product/certified-appsec-pentester/)
+
+Certified AppSec Pentester (CAPen) is an intermediate-level exam to test a candidate’s knowledge on the core concepts involving application security. Candidates must be able to demonstrate practical knowledge to conduct an application pentest to pass this exam.
+
+### ![nonfree](img/nonfree.png) [Web Application Penetration Testing](https://www.darkrelay.com/challenge-page/webapplicationpentest?programId=474c159e-fa2e-424a-bc0f-2db9f70b24fa)
+
+Web application penetration testing, where you'll delve into the intricate architecture of web apps, uncover design flaws, and neutralize potential threats before they materialize
+ 
 ## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
@@ -384,6 +419,10 @@ Bi-Weekly Appsec Tutorials
 
 OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
 
+### [DarkRelay](https://www.darkrelay.com/training) 
+
+Explore [DarkRelay's](https://www.darkrelay.com/) comprehensive self-paced and live training courses, meticulously crafted by industry experts. Elevate your skills today!
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -403,6 +442,10 @@ Learn about security and performance.
 **Released**: July 30, 2018
 
 Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
+
+#### [DarkRelay Blog](https://www.darkrelay.com/blog)
+
+Stay Ahead of Threats, Explore DarkRelay's Cybersecurity Blogs! 
 
 ### Wiki pages
 
