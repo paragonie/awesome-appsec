@@ -50,6 +50,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
     * [Websites](#websites)
+      * [pwn.guide](#pwnguide)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
       * [Web App Sec Quiz](#web-app-sec-quiz)
@@ -327,6 +328,10 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
 ## Websites
+
+### [pwn.guide](https://pwn.guide)
+
+Learn about application security & other vulnerabilities from approximately 100 tutorials, both free & paid.
 
 ### [Hack This Site!](http://www.hackthissite.org)
 
