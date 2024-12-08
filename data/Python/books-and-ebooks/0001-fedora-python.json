@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "Python chapter of Fedora Defensive Coding Guide",
+    "remark": "Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.",
+    "url": "https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html"
+}

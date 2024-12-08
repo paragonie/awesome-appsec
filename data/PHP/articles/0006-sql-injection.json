@@ -1,0 +1,6 @@
+{
+    "date": "2014-05-26",
+    "name": "Preventing SQL Injection in PHP Applications - the Easy and Definitive Guide",
+    "remark": "**TL;DR** - don't escape, use prepared statements instead!",
+    "url": "https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide"
+}

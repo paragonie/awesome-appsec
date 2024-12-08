@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "Thick Client Penetration Testing: Uncovering Vulnerabilities in Desktop Applications",
+    "remark": "This thick client penetration testing blog series aims to educate pen testers on Windows thick client application security testing. We will use DarkRelay's vulnerable Windows application for PoC and testing.  ",
+    "url": "https://www.darkrelay.com/post/thick-client-penetration-testing"
+}

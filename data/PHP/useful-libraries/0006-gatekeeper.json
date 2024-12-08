@@ -1,0 +1,5 @@
+{
+    "name": "psecio/gatekeeper",
+    "remark": "A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure \"remember me\" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).",
+    "url": "https://github.com/psecio/gatekeeper"
+}

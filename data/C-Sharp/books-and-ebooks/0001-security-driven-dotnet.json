@@ -1,0 +1,7 @@
+{
+    "date": "2015-07-14",
+    "free": false,
+    "name": "Security Driven .NET",
+    "remark": "An introduction to developing secure applications targeting version 4.5 of the .NET Framework, specifically covering cryptography and security engineering topics.",
+    "url": "http://securitydriven.net/"
+}

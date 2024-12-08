@@ -1,0 +1,5 @@
+{
+    "name": "defuse/php-encryption",
+    "remark": "Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)",
+    "url": "https://github.com/defuse/php-encryption"
+}

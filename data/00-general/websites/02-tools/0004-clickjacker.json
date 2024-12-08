@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "clickjacker.io",
+    "remark": "Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share link. You can test HTTPS, HTTP, intranet & internal sites.",
+    "url": "https://clickjacker.io"
+}
