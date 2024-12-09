@@ -55,6 +55,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Training](#training)
       * [Buffer Overflow exploitation](#-buffer-overflow-exploitation) ![nonfree](img/nonfree.png)
       * [Certified AppSec Pentester (CAPen) - secops](#certified-appsec-pentester-capen-secops)
+      * [Buffer Overflow Exploits and Defenses](#buffer-overflow-exploits-and-defenses)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -99,7 +100,6 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Mastering Android Application Penetration Testing (MAPT)](#-mastering-android-application-penetration-testing-mapt) ![nonfree](img/nonfree.png)
       * [Advanced Mobile Application Security (AMAS)](#-advanced-mobile-application-security-amas) ![nonfree](img/nonfree.png)
       * [Mobile Application Penetration Testing - TCM security](#mobile-application-penetration-testing-tcm-security)
-      * [Buffer Overflow Exploits and Defenses](#buffer-overflow-exploits-and-defenses)
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
@@ -371,6 +371,10 @@ This course offers a practical introduction to buffer overflow exploitation, cov
 
 Certified AppSec Pentester (CAPen) is an intermediate-level exam to test a candidate’s knowledge on the core concepts involving application security. Candidates must be able to demonstrate practical knowledge to conduct an application pentest to pass this exam.
 
+### [Buffer Overflow Exploits and Defenses](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/resources/lecture-3-buffer-overflow-exploits-and-defenses/)
+
+ In this lecture, Professor Mickens discusses topics related to buffer overflow exploits, including baggy bounds handling, mitigation approaches, and return-oriented programming.
+
 ## Websites
 
 ### [Hack This Site!](http://www.hackthissite.org)
@@ -531,10 +535,6 @@ Master mobile app security with this hands-on course focusing on Android and iOS
 
 Learn Mobile Application Hacking for iOS and Android Devices
 
-### [Buffer Overflow Exploits and Defenses](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/resources/lecture-3-buffer-overflow-exploits-and-defenses/)
-
- In this lecture, Professor Mickens discusses topics related to buffer overflow exploits, including baggy bounds handling, mitigation approaches, and return-oriented programming.
-
 # C
 
 ## Books and ebooks
@@ -547,7 +547,7 @@ A community-maintained Wiki detailing secure coding standards for C programming.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2024)
 
-**Released**: December 8, 2024
+**Released**: December 9, 2024
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
