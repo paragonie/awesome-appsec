@@ -42,7 +42,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](img/nonfree.png)
       * [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](img/nonfree.png)
       * [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
-      * [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
+      * [Security Engineering - Third Edition](#security-engineering-third-edition-2020) (2020)
       * [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](img/nonfree.png)
       * [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
       * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
@@ -64,6 +64,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [OWASP NodeGoat](#owasp-nodegoat)
       * [Securing The Stack](#securing-the-stack)
       * [OWASP ServerlessGoat](#owasp-serverlessgoat)
+      * [SecDim](#secdim)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
         * [NCC Group - Blog](#ncc-group-blog)
@@ -85,7 +86,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
   * [C](#c)
     * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2022) (2022)
+      * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2025) (2025)
   * [C++](#c-1)
     * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
@@ -292,9 +293,9 @@ Securing DevOps explores how the techniques of DevOps and Security should be app
 
 
 
-### [Security Engineering - Second Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2008)
+### [Security Engineering - Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2020)
 
-**Released**: April 14, 2008
+**Released**: November 1, 2020
 
 
 
@@ -384,6 +385,10 @@ Bi-Weekly Appsec Tutorials
 
 OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
 
+### [SecDim](https://secdim.com)
+
+SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) appsec with free git based labs. Think you got what it takes to build a secure app? [Challenge yourself](https://play.secdim.com) with appsec games! Fix bugs, get a score and your name on the leaderboards.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
@@ -456,9 +461,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2022)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2025)
 
-**Released**: May 23, 2022
+**Released**: February 22, 2025
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -692,7 +697,7 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 
 ## Books and ebooks
 
-### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
+### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/defensive-coding/programming-languages/Python/)
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
 
