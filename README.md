@@ -46,6 +46,12 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](img/nonfree.png)
       * [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
       * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
+      * [Spring Boot in Practice](#spring-boot-in-practice)(2021)
+      * [OpenID Connect in Action](https://www.manning.com/books/openid-connect-in-action)(2021)
+      * [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography)(2021)
+      * [Application Security Program Handbook](https://www.manning.com/books/application-security-program-handbook)(2022)
+      * [Secret Key Cryptography](https://www.manning.com/books/secret-key-cryptography)(2022)
+      * [Spring Security in Action, Second Edition](https://www.manning.com/books/spring-security-in-action-second-edition)(2023)
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
@@ -314,6 +320,12 @@ The first part of a three part book series providing broad and in-depth coverage
 ### [Holistic Info-Sec for Web Developers (Fascicle 1)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications)
 
 The second part of a three part book series providing broad and in-depth coverage on what web developers and architects need to know in order to create robust, reliable, maintainable and secure software, VPS, networks, cloud and web applications, that are delivered continuously, on time, with no nasty surprises.
+
+### ![nonfree](img/nonfree.png) [Making Sense of Cybersecurity](https://www.manning.com/books/making-sense-of-cybersecurity) (2022)
+
+**Released**: October 17, 2022
+
+A jargon-busting guide to the key concepts, terminology, and technologies of cybersecurity.
 
 ## Classes
 
