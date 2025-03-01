@@ -49,6 +49,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Classes](#classes)
       * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
       * [Hack Night](#hack-night)
+      * [Cybering](#cybering)
     * [Websites](#websites)
       * [Hack This Site!](#hack-this-site)
       * [Enigma Group](#enigma-group)
@@ -326,6 +327,10 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 ### [Hack Night](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
+
+### [Cybering](https://cybering.cc)
+
+A course on YouTube for learning application security. The premise is that the vulnerabilities are easy to understand if you have the background knowledge. It lays the foundation so that you can understand the systems you're attacking, from web apps to binary exploitation.
 
 ## Websites
 
