@@ -1,0 +1,6 @@
+{
+    "name": "AppSec Santa",
+    "remark": "Curated comparison of 163+ application security tools across 10 categories (SAST, SCA, DAST, IAST, RASP, AI Security, API Security, IaC Security, ASPM, Mobile).",
+    "url": "https://appsecsanta.com",
+    "free": true
+}
