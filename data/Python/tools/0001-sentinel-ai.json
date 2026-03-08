@@ -1,0 +1,7 @@
+{
+    "date": "2026-01-15",
+    "free": true,
+    "name": "Sentinel AI",
+    "remark": "Real-time safety guardrails for LLM applications: prompt injection detection (12 languages), PII redaction, OWASP code vulnerability scanning, dangerous tool call blocking. Sub-millisecond latency, zero ML dependencies. Apache 2.0.",
+    "url": "https://github.com/MaxwellCalkin/sentinel-ai"
+}
