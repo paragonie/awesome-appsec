@@ -421,6 +421,9 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 The infamous suite of SSL and TLS tools.
 
+#### [Plexicus](https://www.plexicus.ai/)
+AI-powered ASPM tool that automatically detects and remediates vulnerabilities across code. Generates pull requests with fixes - free to use
+
 #### [securityheaders.io](https://securityheaders.io/)
 
 Quickly and easily assess the security of your HTTP response headers.
