@@ -389,6 +389,10 @@ OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless 
 
 SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) appsec with free git based labs. Think you got what it takes to build a secure app? [Challenge yourself](https://play.secdim.com) with appsec games! Fix bugs, get a score and your name on the leaderboards.
 
+### [appsec.fyi](https://appsec.fyi)
+
+Curated application security resource library covering XSS, SQLi, SSRF, IDOR, RCE, and more with 2,600+ resources across 22 topics.
+
 ### Blogs
 
 #### [Crypto Fails](http://cryptofails.com)
