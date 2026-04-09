@@ -433,6 +433,10 @@ A free CSP and HPKP reporting service.
 
 Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share link. You can test HTTPS, HTTP, intranet & internal sites.
 
+#### [ismycodesafe.com](https://ismycodesafe.com)
+
+Free online security scanner that runs 110 checks across SSL, headers, ports, OWASP paths, CVEs, DNS, CORS, and tech stack fingerprinting with OWASP Top 10 mapping and A-F grading.
+
 # AWS Lambda
 
 ## Tools
