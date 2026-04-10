@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "VulnHawk",
+    "remark": "AI-powered static application security testing (SAST) tool that detects business logic flaws, missing authorization checks, IDOR/BOLA, and inconsistent security controls by analyzing related code context across the codebase. Supports Python, JavaScript/TypeScript, Go, Java, PHP (Laravel-aware), and Ruby (Rails-aware). Available as CLI and GitHub Action, with SARIF ingestion for deeper analysis of Semgrep/CodeQL findings.",
+    "url": "https://github.com/momenbasel/vulnhawk"
+}
