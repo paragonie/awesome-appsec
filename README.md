@@ -433,6 +433,7 @@ A free CSP and HPKP reporting service.
 
 Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share link. You can test HTTPS, HTTP, intranet & internal sites.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=paragonie_awesome-appsec) - See what developers you follow are starring on GitHub. Free.
 # AWS Lambda
 
 ## Tools
