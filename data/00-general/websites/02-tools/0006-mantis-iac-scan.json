@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "MANTIS IaC Misconfig Scanner",
+    "remark": "Browser-based IaC misconfiguration scanner for Kubernetes manifests, CloudFormation templates, Terraform files, docker-compose, and GitHub Actions workflows. The rule engine runs entirely client-side — your file never crosses the network. No signup required.",
+    "url": "https://mantiscore.ai/free-tools/iac-scan"
+}

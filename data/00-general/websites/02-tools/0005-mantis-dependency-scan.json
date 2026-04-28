@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "MANTIS Dependency CVE Scanner",
+    "remark": "Drop a lockfile and get OSV.dev CVE matches in seconds. Supports npm (package-lock.json v1/v2/v3), yarn (classic + berry), pnpm-lock.yaml, requirements.txt, Pipfile.lock, Cargo.lock, go.sum, Gemfile.lock, and composer.lock. No signup required.",
+    "url": "https://mantiscore.ai/free-tools/dependency-scan"
+}

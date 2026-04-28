@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "MANTIS WAF Detector",
+    "remark": "Identifies which of 75+ WAF vendors sits in front of a target URL. Resolves the URL, follows redirects, sends two probes, and matches headers/cookies/body/status against vendor signatures. Returns the best match with raw evidence and runner-up matches. No signup required.",
+    "url": "https://mantiscore.ai/free-tools/waf-detect"
+}
