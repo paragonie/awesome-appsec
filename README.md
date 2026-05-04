@@ -365,6 +365,10 @@ A series of programming exercises for teaching oneself cryptography by [Matasano
 
 PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercises/) and a [bootcamp](https://pentesterlab.com/bootcamp/) to get started.
 
+### [Pentest Mindmap](https://pentestmindmap.com)
+
+Interactive mindmap with 11,600+ pentesting commands organized across 32 categories. Covers web security, Active Directory, privilege escalation, network attacks, and OSCP preparation. Free to explore.
+
 ### [Juice Shop](https://bkimminich.github.io/juice-shop)
 
 An intentionally insecure Javascript Web Application.
