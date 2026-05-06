@@ -717,6 +717,12 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 A wiki maintained by the OWASP Python Security project.
 
+## Tools
+
+### [mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard)
+
+- [mcp-safeguard](https://github.com/SyedAnas01/mcp-safeguard) - Security scanner for MCP servers (AI agent tooling) — detects prompt injection, credential leaks, exposed endpoints, and tool poisoning with CVSS scoring. `pip install mcp-safeguard`
+
 # Ruby
 
 ## Books and ebooks
