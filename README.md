@@ -161,6 +161,12 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
 
 ## Articles
 
+* [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
+* [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 ### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
 
 **Released**: February 25, 2014
