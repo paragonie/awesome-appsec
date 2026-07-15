@@ -75,6 +75,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [Tools](#tools)
         * [Qualys SSL Labs](#qualys-ssl-labs)
         * [securityheaders.io](#securityheaders-io)
+        * [SecureMonk](#securemonk)
         * [report-uri.io](#report-uri-io)
         * [clickjacker.io](#clickjacker-io)
   * [AWS Lambda](#aws-lambda)
@@ -424,6 +425,10 @@ The infamous suite of SSL and TLS tools.
 #### [securityheaders.io](https://securityheaders.io/)
 
 Quickly and easily assess the security of your HTTP response headers.
+
+#### [SecureMonk](https://securemonk.io)
+
+Free scanner combining TLS/SSL configuration and HTTP security header analysis in one report, with CVE-based vulnerability detection and an AI security assistant. No signup.
 
 #### [report-uri.io](https://report-uri.io)
 
