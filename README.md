@@ -161,7 +161,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
 
 ## Articles
 
-### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
+### [How to Safely Generate a Random Number](https://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
 
 **Released**: February 25, 2014
 
@@ -173,7 +173,7 @@ Advice on cryptographically secure pseudo-random number generators.
 
 A post on [Crackstation](https://crackstation.net), a project by [Defuse Security](https://defuse.ca)
 
-### [A good idea with bad usage: /dev/urandom](http://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
+### [A good idea with bad usage: /dev/urandom](https://insanecoding.blogspot.co.uk/2014/05/a-good-idea-with-bad-usage-devurandom.html) (2014)
 
 **Released**: May 3, 2014
 
@@ -197,13 +197,13 @@ A **must-read** for anyone looking to build their own cryptography features.
 
 ## Books
 
-### ![nonfree](img/nonfree.png) [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
+### ![nonfree](img/nonfree.png) [Web Application Hacker's Handbook](https://mdsec.net/wahh) (2011)
 
 **Released**: September 27, 2011
 
 Great introduction to Web Application Security; though slightly dated.
 
-### ![nonfree](img/nonfree.png) [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
+### ![nonfree](img/nonfree.png) [Cryptography Engineering](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
 
 **Released**: March 15, 2010
 
@@ -215,79 +215,79 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 
 Securing DevOps explores how the techniques of DevOps and Security should be applied together to make cloud services safer. This introductory book reviews state of the art practices used in securing web applications and their infrastructure, and teaches you techniques to integrate security directly into your product.
 
-### ![nonfree](img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
+### ![nonfree](img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
 
 **Released**: May 3, 2009
 
 
 
-### ![nonfree](img/nonfree.png) [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006)
+### ![nonfree](img/nonfree.png) [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](https://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006)
 
 **Released**: November 30, 2006
 
 
 
-### ![nonfree](img/nonfree.png) [C Interfaces and Implementations: Techniques for Creating Reusable Software](http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/) (1996)
+### ![nonfree](img/nonfree.png) [C Interfaces and Implementations: Techniques for Creating Reusable Software](https://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/) (1996)
 
 **Released**: August 30, 1996
 
 
 
-### ![nonfree](img/nonfree.png) [Reversing: Secrets of Reverse Engineering](http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) (2005)
+### ![nonfree](img/nonfree.png) [Reversing: Secrets of Reverse Engineering](https://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) (2005)
 
 **Released**: April 15, 2005
 
 
 
-### ![nonfree](img/nonfree.png) [JavaScript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) (2008)
+### ![nonfree](img/nonfree.png) [JavaScript: The Good parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) (2008)
 
 **Released**: May 1, 2008
 
 
 
-### ![nonfree](img/nonfree.png) [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301) (2007)
+### ![nonfree](img/nonfree.png) [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](https://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301) (2007)
 
 **Released**: June 17, 2007
 
 
 
-### ![nonfree](img/nonfree.png) [The Mac Hacker's Handbook](http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362) (2009)
+### ![nonfree](img/nonfree.png) [The Mac Hacker's Handbook](https://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362) (2009)
 
 **Released**: March 3, 2009
 
 
 
-### ![nonfree](img/nonfree.png) [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786) (2008)
+### ![nonfree](img/nonfree.png) [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](https://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786) (2008)
 
 **Released**: August 22, 2008
 
 
 
-### ![nonfree](img/nonfree.png) [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436) (1998)
+### ![nonfree](img/nonfree.png) [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](https://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436) (1998)
 
 **Released**: June 25, 1998
 
 
 
-### ![nonfree](img/nonfree.png) [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771) (2004)
+### ![nonfree](img/nonfree.png) [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](https://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771) (2004)
 
 **Released**: December 29, 2004
 
 
 
-### ![nonfree](img/nonfree.png) [Computation Structures (MIT Electrical Engineering and Computer Science)](http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395) (1989)
+### ![nonfree](img/nonfree.png) [Computation Structures (MIT Electrical Engineering and Computer Science)](https://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395) (1989)
 
 **Released**: December 13, 1989
 
 
 
-### ![nonfree](img/nonfree.png) [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252) (2009)
+### ![nonfree](img/nonfree.png) [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](https://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252) (2009)
 
 **Released**: August 3, 2009
 
 
 
-### [Secure Programming HOWTO](http://www.dwheeler.com/secure-programs/) (2015)
+### [Secure Programming HOWTO](https://www.dwheeler.com/secure-programs/) (2015)
 
 **Released**: March 1, 2015
 
@@ -329,11 +329,11 @@ Developed from the materials of NYU Poly's old Penetration Testing and Vulnerabi
 
 ## Websites
 
-### [Hack This Site!](http://www.hackthissite.org)
+### [Hack This Site!](https://www.hackthissite.org)
 
 Learn about application security by attempting to hack this website.
 
-### [Enigma Group](http://www.enigmagroup.org)
+### [Enigma Group](https://www.enigmagroup.org)
 
 Where hackers and security experts come to train.
 
@@ -345,11 +345,11 @@ Self-assessment quiz for web application security
 
 Secure passwords in several languages/frameworks.
 
-### [Security News Feeds Cheat-Sheet](http://lzone.de/cheat-sheet/Security-News-Feeds)
+### [Security News Feeds Cheat-Sheet](https://lzone.de/cheat-sheet/Security-News-Feeds)
 
 A list of security news sources.
 
-### [Open Security Training](http://opensecuritytraining.info/)
+### [Open Security Training](https://opensecuritytraining.info/)
 
 Video courses on low-level x86 programming, hacking, and forensics.
 
@@ -357,9 +357,9 @@ Video courses on low-level x86 programming, hacking, and forensics.
 
 Capture The Flag - Learn Assembly and Embedded Device Security
 
-### [The Matasano Crypto Challenges](http://cryptopals.com)
+### [The Matasano Crypto Challenges](https://cryptopals.com)
 
-A series of programming exercises for teaching oneself cryptography by [Matasano Security](http://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) by Maciej Ceglowski explains it well.
+A series of programming exercises for teaching oneself cryptography by [Matasano Security](https://matasano.com). [The introduction](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) by Maciej Ceglowski explains it well.
 
 ### [PentesterLab](https://pentesterlab.com)
 
@@ -369,7 +369,7 @@ PentesterLab provides [free Hands-On exercises](https://pentesterlab.com/exercis
 
 An intentionally insecure Javascript Web Application.
 
-### [Supercar Showdown](http://hackyourselffirst.troyhunt.com/)
+### [Supercar Showdown](https://hackyourselffirst.troyhunt.com/)
 
 How to go on the offence before online attackers do.
 
@@ -391,7 +391,7 @@ SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) apps
 
 ### Blogs
 
-#### [Crypto Fails](http://cryptofails.com)
+#### [Crypto Fails](https://cryptofails.com)
 
 Showcasing bad cryptography
 
@@ -481,7 +481,7 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 
 ## Books and ebooks
 
-### ![nonfree](img/nonfree.png) [Security Driven .NET](http://securitydriven.net/) (2015)
+### ![nonfree](img/nonfree.png) [Security Driven .NET](https://securitydriven.net/) (2015)
 
 **Released**: July 14, 2015
 
@@ -517,7 +517,7 @@ A guide to managing sensitive data in memory.
 
 A community-maintained Wiki detailing secure coding standards for Java programming.
 
-### [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
+### [Secure Coding Guidelines for Java SE](https://www.oracle.com/technetwork/java/seccodeguide-139067.html) (2014)
 
 **Released**: April 2, 2014
 
@@ -561,7 +561,7 @@ We run many types of info-sec security training, covering Physical, People, VPS,
 
 ## Articles
 
-### [It's All About Time](http://blog.ircmaxell.com/2014/11/its-all-about-time.html) (2014)
+### [It's All About Time](https://blog.ircmaxell.com/2014/11/its-all-about-time.html) (2014)
 
 **Released**: November 28, 2014
 
@@ -573,13 +573,13 @@ A gentle introduction to timing attacks in PHP applications
 
 Discusses password policies, password storage, "remember me" cookies, and account recovery.
 
-### [20 Point List For Preventing Cross-Site Scripting In PHP](http://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php) (2013)
+### [20 Point List For Preventing Cross-Site Scripting In PHP](https://blog.astrumfutura.com/2013/04/20-point-list-for-preventing-cross-site-scripting-in-php) (2013)
 
 **Released**: April 22, 2013
 
 Padriac Brady's advice on building software that isn't vulnerable to XSS
 
-### [25 PHP Security Best Practices For Sys Admins](http://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html) (2011)
+### [25 PHP Security Best Practices For Sys Admins](https://www.cyberciti.biz/tips/php-security-best-practices-tutorial.html) (2011)
 
 **Released**: November 23, 2011
 
@@ -615,7 +615,7 @@ Discusses the importance of end-to-end network-layer encryption (HTTPS) as well 
 
 **Released**: December 12, 2017
 
-This guide should serve as a complement to the e-book, [PHP: The Right Way](http://www.phptherightway.com), with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
+This guide should serve as a complement to the e-book, [PHP: The Right Way](https://www.phptherightway.com), with a strong emphasis on security and not general PHP programmer topics (e.g. code style).
 
 ## Books and ebooks
 
@@ -653,13 +653,13 @@ PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`.
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
-### [openwall/phpass](http://www.openwall.com/phpass/)
+### [openwall/phpass](https://www.openwall.com/phpass/)
 
 A portable public domain password hashing framework for use in PHP applications.
 
 ## Websites
 
-### [websec.io](http://websec.io)
+### [websec.io](https://websec.io)
 
 **websec.io** is dedicated to educating developers about security with topics relating to general security fundamentals, emerging technologies and PHP-specific information
 
@@ -669,17 +669,17 @@ A portable public domain password hashing framework for use in PHP applications.
 
 The blog of our technology and security consulting firm based in Orlando, FL
 
-#### [ircmaxell's blog](http://blog.ircmaxell.com)
+#### [ircmaxell's blog](https://blog.ircmaxell.com)
 
 A blog about PHP, Security, Performance and general web application development.
 
-#### [Pádraic Brady's Blog](http://blog.astrumfutura.com)
+#### [Pádraic Brady's Blog](https://blog.astrumfutura.com)
 
 Pádraic Brady is a Zend Framework security expert
 
 ### Mailing lists
 
-#### [Securing PHP Weekly](http://securingphp.com)
+#### [Securing PHP Weekly](https://securingphp.com)
 
 A weekly newsletter about PHP, security, and the community.
 
@@ -705,7 +705,7 @@ Lists standard library features that should be avoided, and references sections 
 
 Black Hat Python by Justin Seitz from NoStarch Press is a great book for the offensive security minds
 
-### ![nonfree](img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+### ![nonfree](img/nonfree.png) [Violent Python](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 Violent Python shows you how to move from a theoretical understanding of offensive computing concepts to a practical implementation.
 
