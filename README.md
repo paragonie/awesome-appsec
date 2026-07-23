@@ -349,6 +349,10 @@ Secure passwords in several languages/frameworks.
 
 A list of security news sources.
 
+### [anve-offsec](https://github.com/ANVEAI/anve-offsec)
+
+Autonomous AI security engineer & bug bounty platform in Kali Linux featuring stateful Hermes reasoning, OpenClaw Chromium browser sidecar, and Qdrant vector strategy RAG. 🇮🇳
+
 ### [Open Security Training](http://opensecuritytraining.info/)
 
 Video courses on low-level x86 programming, hacking, and forensics.
