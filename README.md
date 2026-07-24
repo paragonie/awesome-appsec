@@ -70,6 +70,10 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         * [NCC Group - Blog](#ncc-group-blog)
         * [Scott Helme](#scott-helme)
         * [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
+        * [From-Dev-To-Attacker](https://github.com/dheeraj-jayaswal/From-Dev-To-Attacker) - Enterprise vulnerability write-ups from a developer-turned-pentester's perspective, with real  business-impact framing across regulated industries.
+        * [AppSec-From-The-Trenches](https://github.com/dheeraj-jayaswal/AppSec-From-The-Trenches) - Practical tool usage guides and WAPT methodology from real enterprise engagements.
+        * [Bug-Bounty-Hunting-Companion](https://github.com/dheeraj-jayaswal/Bug-Bounty-Hunting-Companion) - Real disclosed HackerOne reports broken into reproducible testing checklists.
+        * [API-From-The-Trenches](https://github.com/dheeraj-jayaswal/API-From-The-Trenches) - Deep-dive API security series — OWASP API Top 10 coverage from real enterprise engagements.
       * [Wiki pages](#wiki-pages)
         * [OWASP Top Ten Project](#owasp-top-ten-project)
       * [Tools](#tools)
