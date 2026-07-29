@@ -1,0 +1,5 @@
+{
+  "name": "Poszo Next.js Security Headers Starter",
+  "remark": "MIT-licensed, dependency-free Next.js response-header configurations with CSP guidance, rollback notes, and a deployed-site verifier for CI.",
+  "url": "https://github.com/poszothebuilder/nextjs-security-headers-starter"
+}
