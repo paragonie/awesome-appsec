@@ -554,6 +554,7 @@ Hands-on and abundant with source code for a practical guide to Securing Node.js
 Learn from the team that spearheaded the [Node Security Project](https://nodesecurity.io)
 
 ### ![nonfree](img/nonfree.png) [Security Training from BinaryMist](https://blog.binarymist.net/presentations-publications/)
+- [RansomLeak - Interactive application security exercises](https://ransomleak.com/catalogue/application-security/)
 
 We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
 
