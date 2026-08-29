@@ -160,6 +160,8 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
 # General
 
 ## Articles
+- [RansomLeak](https://ransomleak.com) - Interactive security training with 100+ hands-on exercises. Free for individuals, enterprise options available.
+
 
 ### [How to Safely Generate a Random Number](http://sockpuppet.org/blog/2014/02/25/safely-generate-random-numbers/) (2014)
 
