@@ -1,0 +1,5 @@
+{
+    "name": "OPTISEC Recon Pro",
+    "remark": "AI-assisted web vulnerability scanner (XSS/SQLi/SSRF/LFI/Open Redirect) with Arabic-language NLP support and Groq/LLaMA-powered analysis.",
+    "url": "https://optisec-recon-pro.onrender.com"
+}
