@@ -112,6 +112,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
     * [Training](#training)
       * [Security Training by ^Lift Security](#-security-training-by-lift-security) ![nonfree](img/nonfree.png)
       * [Security Training from BinaryMist](#-security-training-from-binarymist) ![nonfree](img/nonfree.png)
+      * [Big Double D](#big-double-d) ![nonfree](img/nonfree.png)
   * [PHP](#php)
     * [Articles](#articles-3)
       * [It's All About Time](#its-all-about-time-2014) (2014)
@@ -556,6 +557,12 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 ### ![nonfree](img/nonfree.png) [Security Training from BinaryMist](https://blog.binarymist.net/presentations-publications/)
 
 We run many types of info-sec security training, covering Physical, People, VPS, Networs, Cloud, Web Applications. Most of the content is sourced from the [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers) Kim has been working on for several years. More info can be found [here](https://binarymist.io/#services)
+
+### ![nonfree](img/nonfree.png) [Big Double D](https://oops.codes)
+
+Security-awareness training platform by /Dev/Out Digital, for individual learners and enterprise/team
+training. Supports org-admin-assigned courses, quizzes, and branching phishing-simulation scenarios
+(not just static slides) so learners practice recognizing and responding to real attack flows.
 
 # PHP
 
