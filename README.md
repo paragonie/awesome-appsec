@@ -64,6 +64,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
       * [OWASP NodeGoat](#owasp-nodegoat)
       * [Securing The Stack](#securing-the-stack)
       * [OWASP ServerlessGoat](#owasp-serverlessgoat)
+      * [Damn Vulnerable Mobile App (DVMA)](#damn-vulnerable-mobile-app-dvma)
       * [SecDim](#secdim)
       * [Blogs](#blogs)
         * [Crypto Fails](#crypto-fails)
@@ -384,6 +385,10 @@ Bi-Weekly Appsec Tutorials
 ### [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat)
 
 OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
+
+### [Damn Vulnerable Mobile App (DVMA)](https://github.com/cpeoples/dvma)
+
+A deliberately insecure Flutter app that builds to real native Android and iOS binaries from one codebase. Modules are grouped by OWASP MASVS category and mapped to the Mobile Top 10, MASTG, and CWE, so it works as a target for practising mobile exploitation and for validating scanners against known weaknesses. Same idea as DVWA / Juice Shop, but for mobile.
 
 ### [SecDim](https://secdim.com)
 
