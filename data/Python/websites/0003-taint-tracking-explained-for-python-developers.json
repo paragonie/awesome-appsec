@@ -1,0 +1,7 @@
+{
+    "date": "2026-10-07",
+    "free": true,
+    "name": "Taint tracking explained for Python developers",
+    "remark": "Sources, propagation, sinks and sanitizers explained with Python examples, including the limits of the technique.",
+    "url": "https://eyalsec.com/research/taint-tracking-explained-for-python-developers"
+}

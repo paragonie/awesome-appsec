@@ -1,0 +1,7 @@
+{
+    "date": "2026-10-12",
+    "free": true,
+    "name": "Securing a Django app against SQL injection",
+    "remark": "The four places Django application code writes SQL text (raw(), extra(), RawSQL, cursor.execute()), the ORM methods that take a name from the request, and a regression test for both.",
+    "url": "https://eyalsec.com/research/securing-a-django-app-against-sql-injection"
+}
