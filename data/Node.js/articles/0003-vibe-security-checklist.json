@@ -1,0 +1,7 @@
+{
+    "date": "2026-11-22",
+    "free": true,
+    "name": "Next.js, Vite & Supabase Pre-Launch Security Checklist",
+    "remark": "Open-source 12-item security checklist and guardrails for full-stack JavaScript/TypeScript applications covering client bundle secret leaks, source maps, PostgREST Row-Level Security, and HTTP security headers.",
+    "url": "https://github.com/zColdWater/vibe-security-checklist"
+}
