@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "AI Slop Code Risk Monitor",
+    "remark": "Open static-analysis benchmark and observatory scanning 7,100+ GitHub repositories (3.8B LOC) for unverified third-party dependency surfaces, slopsquatting exposure, cognitive ownership debt, and pull-request review risk.",
+    "url": "https://slopcodemonitor.ai/"
+}
