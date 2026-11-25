@@ -1,0 +1,7 @@
+{
+    "date": "2026-11-24",
+    "free": true,
+    "name": "Verify a Public API Honeypot",
+    "remark": "A walkthrough for matching a labeled request to a hosted API decoy with the corresponding detection in the site that owns the decoy.",
+    "url": "https://webdecoy.com/product/endpoints/#verify-your-decoy"
+}
