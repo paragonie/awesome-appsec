@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "SpecDiff",
+    "remark": "Client-side, zero-upload OpenAPI 2.0/3.0/3.1 security auditor and breaking-change diff workbench (OWASP API Top 10 checks, auth/HTTPS regression rules, strict connect-src 'none' CSP) paired with an MIT-licensed Node CLI and SARIF 2.1.0 GitHub Action.",
+    "url": "https://spec.runglab.dev/"
+}
