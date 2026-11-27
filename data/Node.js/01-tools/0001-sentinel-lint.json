@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "sentinel-lint",
+    "remark": "Plugin-first, zero-dependency security policy linter and SARIF 2.1.0 scanner for repositories, GitHub Actions workflows and MCP configurations.",
+    "url": "https://github.com/draarivpatel-ui/sentinel-lint"
+}
