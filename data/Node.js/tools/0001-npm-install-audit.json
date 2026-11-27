@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "npm-install-audit",
+    "remark": "Zero-dependency, read-only checker for install hooks, package-manager configuration and suspicious source patterns in unfamiliar projects before npm install. Includes worked output and documented limitations; findings require manual review and a clean scan is not proof of safety.",
+    "url": "https://github.com/cryptostrapon/npm-install-audit"
+}
