@@ -1,0 +1,6 @@
+{
+    "free": true,
+    "name": "CybeDefend",
+    "remark": "Open source, self-hosted AppSec platform that brings any scanner's results into one dashboard (Opengrep, Trivy, Gitleaks and zizmor by default), with a coding agent skill that proves each business logic or access control flaw with an exploit test.",
+    "url": "https://github.com/CybeDefend/cybedefend"
+}
